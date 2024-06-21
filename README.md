@@ -10,34 +10,34 @@ Welcome to the EMIR-specific RAG repository. This project builds on the existing
 ## Overview
 
 The DRR system, which generates reports based on existing regulations (e.g., EMIR), currently faces high maintenance costs and scalability challenges. This repository aims to address these issues by developing AI-based tools:
-1. *AI-based Validator*: Checks the lineage consistency of the DRR system to reduce maintenance costs.
-2. *AI-based Rule Generator/Copilot*: Generates new rules to expand the DRR system to other jurisdictions and regulations, such as Japan and Australia.
+1. **AI-based Validator**: Checks the lineage consistency of the DRR system to reduce maintenance costs.
+2. **AI-based Rule Generator/Copilot**: Generates new rules to expand the DRR system to other jurisdictions and regulations, such as Japan and Australia.
 
 ## Key Contributors
 
-- *Ian*: Expert in the Common Domain Model (CDM) and ex-director of Market Infrastructure and Technology at ISDA.
-- *Yanglet*: Fine-tuning FinGPT models
-- *Charlie*: benchmarking model performance on analyzing EMIR regulatory data
-- *Jaswanth Duddu*: Train FinGPT on CDM Documentation and benchmarking model performance
-- *Matthew Tavares*: fetching and curation of EMIR regulatory data
+- **Ian**: Expert in the Common Domain Model (CDM) and ex-director of Market Infrastructure and Technology at ISDA.
+- **Yanglet**: Fine-tuning FinGPT models
+- **Charlie**: benchmarking model performance on analyzing EMIR regulatory data
+- **Jaswanth Duddu**: Train FinGPT on CDM Documentation and benchmarking model performance
+- **Matthew Tavares**: fetching and curation of EMIR regulatory data
 
 
 ## Roadmap
 
 ### Short Term Goals
 
-1. Review and Test EMIR Interpretation
+1. **Review and Test EMIR Interpretation**
     - Extract "plain English" regulatory requirements.
-2. Train FinGPT on CDM Documentation
+2. **Train FinGPT on CDM Documentation**
     - Enable FinGPT to learn the "CDM language."
-3. Train FinGPT on Regulation-to-Rule Pairs
+3. **Train FinGPT on Regulation-to-Rule Pairs**
     - Teach FinGPT to match regulatory requirements with the reporting rules.
-4. Fine-tune FinGPT
+4. **Fine-tune FinGPT**
     - Review existing DRR code and regulatory references to ensure correctness.
 
 ### Long Term Goals
 
-1. *Deliver a Working Prototype*
+1. **Deliver a Working Prototype**
 
 ### Estimated Time of Arrival
 
