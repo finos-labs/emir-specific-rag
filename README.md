@@ -4,48 +4,71 @@
 
 # EMIR-specific RAG
 
-Project blueprint is a GitHub repository template for all [Fintech Open Source Foundation (FINOS)](https://www.finos.org/) hosted GitHub repositories, contributed and maintained by FINOS as part of the [Open Developer Platform (ODP)](https://odp.finos.org) initiative.
+Welcome to the EMIR-specific RAG repository. This project builds on the existing work done by AI4FINANCE to address key challenges in maintaining and expanding the DRR system. The initiative leverages AI to reduce maintenance costs and improve scalability across different jurisdictions and regulations.
 
 
-## Using DCO to sign your commits
+## Overview
 
-All commits must be signed with a DCO signature to avoid being flagged by the DCO Bot. This means that your commit log message must contain a line that looks like the following one, with your actual name and email address:
+The DRR system, which generates reports based on existing regulations (e.g., EMIR), currently faces high maintenance costs and scalability challenges. This repository aims to address these issues by developing AI-based tools:
+1. *AI-based Validator*: Checks the lineage consistency of the DRR system to reduce maintenance costs.
+2. *AI-based Rule Generator/Copilot*: Generates new rules to expand the DRR system to other jurisdictions and regulations, such as Japan and Australia.
 
-```
-Signed-off-by: John Doe <john.doe@example.com>
-```
+## Key Contributors
 
-Adding the `-s` flag to your `git commit` will add that line automatically. You can also add it manually as part of your commit log message or add it afterwards with `git commit --amend -s`.
-
-### Helpful DCO Resources
-- [Git Tools - Signing Your Work](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)
-- [Signing commits
-](https://docs.github.com/en/github/authenticating-to-github/signing-commits)
+- *Ian*: Expert in the Common Domain Model (CDM) and ex-director of Market Infrastructure and Technology at ISDA.
+- *Yanglet*: Fine-tuning FinGPT models
+- *Charlie*: benchmarking model performance on analyzing EMIR regulatory data
+- *Jaswanth Duddu*: Train FinGPT on CDM Documentation and benchmarking model performance
+- *Matthew Tavares*: fetching and curation of EMIR regulatory data
 
 
-## How to use this blueprint
+## Roadmap
 
-1. Clone this repository locally (`git clone https://github.com/finos-labs/project-blueprint.git`)
-2. Copy the `LICENSE`, `LICENSE.spdx`, and `NOTICE` files, as well as the entire `.github` directory, to your own repository (do _not_ copy this `README.md` file).
-3. Copy the `README.template.md` file to your repository, and rename it to `README.md`.
-4. Search and replace the following tokens in the newly copied files:
+### Short Term Goals
 
-  | Token                        | Replace with                                                      |
-  | ---------------------------- | ----------------------------------------------------------------- |
-  | `{project name}`             | The name of the GitHub repository the project resides in.         |
-  | `{yyyy}`                     | The year you started working on the code.                         |
-  | `{current_year}`             | The current year.                                                 |
-  | `{name of copyright owner}`  | The copyright owner of the code (typically you or your employer). |
-  | `{email of copyright owner}` | The email address of the copyright owner of the code (if known).  |
+1. Review and Test EMIR Interpretation
+    - Extract "plain English" regulatory requirements.
+2. Train FinGPT on CDM Documentation
+    - Enable FinGPT to learn the "CDM language."
+3. Train FinGPT on Regulation-to-Rule Pairs
+    - Teach FinGPT to match regulatory requirements with the reporting rules.
+4. Fine-tune FinGPT
+    - Review existing DRR code and regulatory references to ensure correctness.
 
-5. Open the `NOTICE` file in a text editor and either remove the `{Other notices, as necessary}` token, or [add attributions if required by your code's dependencies](https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/75530255/License+Categories).
-6. Open the `README.md` file in a text editor and complete the content as appropriate for your project.
-7. Add the [Apache license header to all of your source files](https://www.apache.org/licenses/LICENSE-2.0.html#apply).
-8. Commit all of your changes.
+### Long Term Goals
+
+1. *Deliver a Working Prototype*
+
+### Estimated Time of Arrival
+
+We will follow the following timeline  
+1. Benchmarking existing models and identifying weaknesses: June 30, 2024 
+2. Curation of EMIR regulatory data: July 20, 2024
+3. Fine-tuning a FinGPT model using LoRA: July 31, 2024
+4. Deliver a Working Prototype: August 20, 2024
+
+
+
+## Contributing Guidelines
+
+1. Fork it (<https://github.com/finos/EMIR-specific RAG/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Read our [contribution guidelines](.github/CONTRIBUTING.md) and [Community Code of Conduct](https://www.finos.org/code-of-conduct)
+4. Commit your changes (`git commit -am 'Add some fooBar'`)
+5. Push to the branch (`git push origin feature/fooBar`)
+6. Create a new Pull Request
+
+## Contact
+
+For more information, feel free to reach out to the project maintainers:
+- Ian: [Email]
+- Maurizio (Mao): [Email]
+
+We look forward to your contributions and collaboration to make regulatory reporting more efficient and scalable.
 
 ## License
 
-Copyright 2020 Fintech Open Source Foundation
+Copyright 2024 Jaswanth Duddu
 
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
