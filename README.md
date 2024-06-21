@@ -68,7 +68,7 @@ We look forward to your contributions and collaboration to make regulatory repor
 
 ## License
 
-Copyright 2024 Jaswanth Duddu
+Copyright 2024
 
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
