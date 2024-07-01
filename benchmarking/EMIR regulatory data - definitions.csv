@@ -1,19 +1,19 @@
 phrases,definitions ,GPT4,GPT4o,GPT3,Mistral,Llama3
-technical support,"‘technical support’ means measures that help national authorities to implement institutional, administrative and structural reforms that are sustainable and resilience-enhancing, strengthen economic, social and territorial cohesion and support the public administration in the preparation of sustainable and resilience-enhancing investments",TRUE,FALSE,FALSE,,
-national authority,"‘national authority’ means one or more public authorities at the level of government, including those at regional and local level, as well as Member State organisations within the meaning of point (42) of Article 2 of the Financial Regulation, cooperating in a spirit of partnership in accordance with the Member States’ institutional and legal framework",TRUE,TRUE,FALSE,,
-Union funds,"‘Union funds’ means the European Regional Development Fund, the European Social Fund Plus, the Cohesion Fund, the Just Transition Fund, the European Maritime, Fisheries and Aquaculture Fund, the Asylum and Migration Fund, the Internal Security Fund and the Border Management and Visa Instrument",TRUE,TRUE,FALSE,,
-international organisation,‘international organisation’ means an organisation within the meaning of Article 156 of the Financial Regulation and organisations assimilated to such an organisation pursuant to that Article,TRUE,TRUE,FALSE,,
-international organisation,‘international organisation’ means an organisation within the meaning of Article 156 of the Financial Regulation and organisations assimilated to such an organisation pursuant to that Article,TRUE,TRUE,FALSE,,
-European Semester for economic policy coordination,‘European Semester for economic policy coordination’ or ‘European Semester’ means the process set out in Article 2-a of Council Regulation (EC) No 1466/97,TRUE,TRUE,FALSE,,
-country-specific recommendations,‘country-specific recommendations’ means the Council recommendations addressed to each Member State in accordance with Articles 121(2) and 148(4) TFEU in the context of the European Semester,TRUE,TRUE,FALSE,,
-the rule of law,"‘the rule of law’ refers to the Union value enshrined in Article 2 TEU. It includes the principles of legality implying a transparent, accountable, democratic and pluralistic law-making process; legal certainty; prohibition of arbitrariness of the executive powers; effective judicial protection, including access to justice, by independent and impartial courts, also as regards fundamental rights; separation of powers; and non-discrimination and equality before the law. The rule of law shall be understood having regard to the other Union values and principles enshrined in Article 2 TEU;",TRUE,TRUE,TRUE,,
+technical support,"‘technical support’ means measures that help national authorities to implement institutional, administrative and structural reforms that are sustainable and resilience-enhancing, strengthen economic, social and territorial cohesion and support the public administration in the preparation of sustainable and resilience-enhancing investments",TRUE,FALSE,FALSE,TRUE,FALSE
+national authority,"‘national authority’ means one or more public authorities at the level of government, including those at regional and local level, as well as Member State organisations within the meaning of point (42) of Article 2 of the Financial Regulation, cooperating in a spirit of partnership in accordance with the Member States’ institutional and legal framework",TRUE,TRUE,FALSE,TRUE,TRUE
+Union funds,"‘Union funds’ means the European Regional Development Fund, the European Social Fund Plus, the Cohesion Fund, the Just Transition Fund, the European Maritime, Fisheries and Aquaculture Fund, the Asylum and Migration Fund, the Internal Security Fund and the Border Management and Visa Instrument",TRUE,TRUE,FALSE,TRUE,TRUE
+international organisation,‘international organisation’ means an organisation within the meaning of Article 156 of the Financial Regulation and organisations assimilated to such an organisation pursuant to that Article,TRUE,TRUE,FALSE,TRUE,FALSE
+international organisation,‘international organisation’ means an organisation within the meaning of Article 156 of the Financial Regulation and organisations assimilated to such an organisation pursuant to that Article,TRUE,TRUE,FALSE,FALSE,FALSE
+European Semester for economic policy coordination,‘European Semester for economic policy coordination’ or ‘European Semester’ means the process set out in Article 2-a of Council Regulation (EC) No 1466/97,TRUE,TRUE,FALSE,TRUE,TRUE
+country-specific recommendations,‘country-specific recommendations’ means the Council recommendations addressed to each Member State in accordance with Articles 121(2) and 148(4) TFEU in the context of the European Semester,TRUE,TRUE,FALSE,FALSE,TRUE
+the rule of law,"‘the rule of law’ refers to the Union value enshrined in Article 2 TEU. It includes the principles of legality implying a transparent, accountable, democratic and pluralistic law-making process; legal certainty; prohibition of arbitrariness of the executive powers; effective judicial protection, including access to justice, by independent and impartial courts, also as regards fundamental rights; separation of powers; and non-discrimination and equality before the law. The rule of law shall be understood having regard to the other Union values and principles enshrined in Article 2 TEU;",TRUE,TRUE,TRUE,TRUE,TRUE
 government entity,"        
-‘government entity’ means a public authority at any level of government, including national, regional and local authorities, as well as Member State organisations within the meaning of point (42) of Article 2 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (16) (the ‘Financial Regulation’).",FALSE,TRUE,FALSE,,
+‘government entity’ means a public authority at any level of government, including national, regional and local authorities, as well as Member State organisations within the meaning of point (42) of Article 2 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (16) (the ‘Financial Regulation’).",FALSE,TRUE,FALSE,TRUE,TRUE
 selected obliged entity,"        
-‘selected obliged entity’ means a credit institution, a financial institution, or a group of credit institutions or financial institutions at the highest level of consolidation in the Union in accordance with applicable accounting standards, which is under direct supervision by the Authority pursuant to Article 13",TRUE,TRUE,FALSE,,
+‘selected obliged entity’ means a credit institution, a financial institution, or a group of credit institutions or financial institutions at the highest level of consolidation in the Union in accordance with applicable accounting standards, which is under direct supervision by the Authority pursuant to Article 13",TRUE,TRUE,FALSE,TRUE,FALSE
 non-selected obliged entity,"        
-‘non-selected obliged entity’ means a credit institution, a financial institution, or a group of credit institutions or financial institutions at the highest level of consolidation in the Union in accordance with applicable accounting standards, other than a selected obliged entity",FALSE,TRUE,FALSE,,
-AML/CFT supervisory system,‘AML/CFT supervisory system’ means the Authority and the supervisory authorities in Member States;,TRUE,TRUE,FALSE,,
+‘non-selected obliged entity’ means a credit institution, a financial institution, or a group of credit institutions or financial institutions at the highest level of consolidation in the Union in accordance with applicable accounting standards, other than a selected obliged entity",FALSE,TRUE,FALSE,FALSE,FALSE
+AML/CFT supervisory system,‘AML/CFT supervisory system’ means the Authority and the supervisory authorities in Member States;,TRUE,TRUE,FALSE,FALSE,FALSE
 non-AML/CFT authority,"        
 ‘non-AML/CFT authority’ means:
 
@@ -35,11 +35,11 @@ a designated authority as defined in Article 2(1), point (18), of Directive 2014
 
 (e)
 
-a competent authority as defined in Article 3(1), point (35), of Regulation (EU) 2023/1114.",TRUE,TRUE,FALSE,,
-crypto-asset,"“crypto-asset” means a crypto-asset as defined in Article 3(1), point (5), of Regulation (EU) 2023/1114 of the European Parliament and of the Council (*8) that is not a central bank digital currency",TRUE,TRUE,FALSE,,
+a competent authority as defined in Article 3(1), point (35), of Regulation (EU) 2023/1114.",TRUE,TRUE,FALSE,TRUE,FALSE
+crypto-asset,"“crypto-asset” means a crypto-asset as defined in Article 3(1), point (5), of Regulation (EU) 2023/1114 of the European Parliament and of the Council (*8) that is not a central bank digital currency",TRUE,TRUE,FALSE,FALSE,TRUE
 electronic money token,"        
-“electronic money token” or “e-money token” means an electronic money token or e-money token as defined in Article 3(1), point (7), of Regulation (EU) 2023/1114;",　TRUE,TRUE,TRUE,,
-crypto-asset exposure,"“crypto-asset exposure” means an asset or an off-balance-sheet item related to a crypto-asset that gives rise to credit risk, counterparty credit risk, market risk, operational risk or liquidity risk",TRUE,TRUE,FALSE,,
+“electronic money token” or “e-money token” means an electronic money token or e-money token as defined in Article 3(1), point (7), of Regulation (EU) 2023/1114;",　TRUE,TRUE,TRUE,FALSE,TRUE
+crypto-asset exposure,"“crypto-asset exposure” means an asset or an off-balance-sheet item related to a crypto-asset that gives rise to credit risk, counterparty credit risk, market risk, operational risk or liquidity risk",TRUE,TRUE,FALSE,TRUE,TRUE
 traditional asset,"“traditional asset” means any asset other than a crypto-asset, including:
 
 (a)
@@ -80,15 +80,15 @@ a pan-European Personal Pension Product as defined in Article 2, point (2), of R
 
 (j)
 
-social security schemes covered by Regulation (EC) No 883/2004 of the European Parliament and of the Council (*12) and Regulation (EC) No 987/2009 of the European Parliament and of the Council (*13);",TRUE,TRUE,FALSE,,
+social security schemes covered by Regulation (EC) No 883/2004 of the European Parliament and of the Council (*12) and Regulation (EC) No 987/2009 of the European Parliament and of the Council (*13);",TRUE,TRUE,FALSE,TRUE,TRUE
 tokenised traditional asset,"        
-“tokenised traditional asset” means a type of crypto-asset that represents a traditional asset, including an e-money token",TRUE,TRUE,TRUE,,
-centralised information system,‘centralised information system’ means a central IT system where the storage and processing of JITs-related data takes place,FALSE,TRUE,FALSE,,
-communication software,"‘communication software’ means software that facilitates the exchange of files and messages in text, audio, image or video formats between JITs collaboration platform users",FALSE,TRUE,TRUE,,
-money laundering,"‘money laundering’ means the conduct set out in Article 3, paragraphs 1 and 5, of Directive (EU) 2018/1673 including aiding and abetting, inciting and attempting to commit that conduct, whether the activities which generated the property to be laundered were carried out on the territory of a Member State or on that of a third country; knowledge, intent or purpose required as an element of that conduct may be inferred from objective factual circumstances",TRUE,TRUE,TRUE,,
-terrorist financing,"‘terrorist financing’ means the conduct set out in Article 11 of Directive (EU) 2017/541 including aiding and abetting, inciting and attempting to commit that conduct, whether carried out on the territory of a Member State or on that of a third country; knowledge, intent or purpose required as an element of that conduct may be inferred from objective factual circumstances",TRUE,TRUE,TRUE,,
+“tokenised traditional asset” means a type of crypto-asset that represents a traditional asset, including an e-money token",TRUE,TRUE,TRUE,FALSE,FALSE
+centralised information system,‘centralised information system’ means a central IT system where the storage and processing of JITs-related data takes place,FALSE,TRUE,FALSE,TRUE,FALSE
+communication software,"‘communication software’ means software that facilitates the exchange of files and messages in text, audio, image or video formats between JITs collaboration platform users",FALSE,TRUE,TRUE,TRUE,FALSE
+money laundering,"‘money laundering’ means the conduct set out in Article 3, paragraphs 1 and 5, of Directive (EU) 2018/1673 including aiding and abetting, inciting and attempting to commit that conduct, whether the activities which generated the property to be laundered were carried out on the territory of a Member State or on that of a third country; knowledge, intent or purpose required as an element of that conduct may be inferred from objective factual circumstances",TRUE,TRUE,TRUE,TRUE,FALSE
+terrorist financing,"‘terrorist financing’ means the conduct set out in Article 11 of Directive (EU) 2017/541 including aiding and abetting, inciting and attempting to commit that conduct, whether carried out on the territory of a Member State or on that of a third country; knowledge, intent or purpose required as an element of that conduct may be inferred from objective factual circumstances",TRUE,TRUE,TRUE,TRUE,TRUE
 criminal activity’,"        
-‘criminal activity’ means criminal activity as defined in Article 2, point (1), of Directive (EU) 2018/1673, as well as fraud affecting the Union’s financial interests as defined in Article 3(2) of Directive (EU) 2017/1371, passive and active corruption as defined in Article 4 (2) and misappropriation as defined in Article 4(3), second subparagraph, of that Directive",TRUE,TRUE,FALSE,,
+‘criminal activity’ means criminal activity as defined in Article 2, point (1), of Directive (EU) 2018/1673, as well as fraud affecting the Union’s financial interests as defined in Article 3(2) of Directive (EU) 2017/1371, passive and active corruption as defined in Article 4 (2) and misappropriation as defined in Article 4(3), second subparagraph, of that Directive",TRUE,TRUE,FALSE,FALSE,TRUE
 credit institution,"        
 ‘credit institution’ means:
 
@@ -98,7 +98,7 @@ a credit institution as defined in Article 4(1), point (1), of Regulation (EU) N
 
 (b)
 
-a branch of a credit institution, as defined in Article 4(1), point (17), of Regulation (EU) No 575/2013, when located in the Union, whether its head office is located in a Member State or in a third country;",TRUE,TRUE,FALSE,,
+a branch of a credit institution, as defined in Article 4(1), point (17), of Regulation (EU) No 575/2013, when located in the Union, whether its head office is located in a Member State or in a third country;",TRUE,TRUE,FALSE,TRUE,TRUE
 financial institution,"        
 ‘financial institution’ means:
 
@@ -148,12 +148,12 @@ a crypto-asset service provider;
 
 (j)
 
-a branch of a financial institution referred to in points (a) to (i), when located in the Union, whether its head office is located in a Member State or in a third country;",　TRUE,TRUE,FALSE,,
-crypto-asset services,"‘crypto-asset services’ means crypto-asset services as defined in Article 3(1), point (16), of Regulation (EU) 2023/1114, with the exception of providing advice on crypto-assets as referred to in Article 3(1), point (16)(h), of that Regulation",TRUE,TRUE,FALSE,,
+a branch of a financial institution referred to in points (a) to (i), when located in the Union, whether its head office is located in a Member State or in a third country;",　TRUE,TRUE,FALSE,TRUE,TRUE
+crypto-asset services,"‘crypto-asset services’ means crypto-asset services as defined in Article 3(1), point (16), of Regulation (EU) 2023/1114, with the exception of providing advice on crypto-assets as referred to in Article 3(1), point (16)(h), of that Regulation",TRUE,TRUE,FALSE,TRUE,TRUE
 crypto-asset service provider,"        
-‘crypto-asset service provider’ means a crypto-asset service provider as defined in Article 3(1), point (15), of Regulation (EU) 2023/1114 where performing one or more crypto-asset services",TRUE,TRUE,FALSE,,
+‘crypto-asset service provider’ means a crypto-asset service provider as defined in Article 3(1), point (15), of Regulation (EU) 2023/1114 where performing one or more crypto-asset services",TRUE,TRUE,FALSE,FALSE,TRUE
 financial mixed activity holding company,"        
-‘financial mixed activity holding company’ means an undertaking, other than a financial holding company or a mixed financial holding company, which is not the subsidiary of another undertaking, the subsidiaries of which include at least one credit institution or financial institution",TRUE,TRUE,FALSE,,
+‘financial mixed activity holding company’ means an undertaking, other than a financial holding company or a mixed financial holding company, which is not the subsidiary of another undertaking, the subsidiaries of which include at least one credit institution or financial institution",TRUE,TRUE,FALSE,FALSE,FALSE
 trust or company service provider,"‘trust or company service provider’ means any natural or legal person that, by way of its business, provides any of the following services to third parties:
 
 (a)
@@ -174,9 +174,9 @@ acting as, or arranging for another person to act as, a trustee of an express tr
 
 (e)
 
-acting as, or arranging for another person to act as, a nominee shareholder for another person;",TRUE,TRUE,FALSE,,
+acting as, or arranging for another person to act as, a nominee shareholder for another person;",TRUE,TRUE,FALSE,TRUE,FALSE
 gambling service,"        
-‘gambling service’ means a service which involves wagering a stake with monetary value in games of chance, including those with an element of skill, such as lotteries, casino games, poker games and betting transactions that are provided at a physical location, or by any means at a distance, by electronic means or any other technology for facilitating communication, and at the individual request of a recipient of services",TRUE,TRUE,FALSE,,
+‘gambling service’ means a service which involves wagering a stake with monetary value in games of chance, including those with an element of skill, such as lotteries, casino games, poker games and betting transactions that are provided at a physical location, or by any means at a distance, by electronic means or any other technology for facilitating communication, and at the individual request of a recipient of services",TRUE,TRUE,FALSE,TRUE,TRUE
 crowdfunding intermediary,"‘crowdfunding intermediary’ means an undertaking other than a crowdfunding service provider the business of which is to match or facilitate the matching, through an internet-based information system open to the public or to a limited number of funders, of:
 
 (a)
@@ -185,7 +185,7 @@ project owners, which are any natural or legal person seeking funding for projec
 
 (b)
 
-funders, which are any natural or legal person contributing to the funding of projects, through loans, with or without interest, or donations, including where such donations entitle the donor to a non-material benefit;",TRUE,TRUE,FALSE,,
+funders, which are any natural or legal person contributing to the funding of projects, through loans, with or without interest, or donations, including where such donations entitle the donor to a non-material benefit;",TRUE,TRUE,FALSE,TRUE,FALSE
 establishment’,"‘establishment’ means the actual pursuit by an obliged entity of an economic activity covered by Article 3 in a Member State or third country other than the country where its head office is located for an indefinite period and through a stable infrastructure, including:
 
 (a)
@@ -194,10 +194,10 @@ a branch or subsidiary;
 
 (b)
 
-in the case of credit institutions and financial institutions, an infrastructure qualifying as an establishment under prudential regulation;",FALSE,FALSE,FALSE,,
-business relationship,"‘business relationship’ means a business, professional or commercial relationship connected with the professional activities of an obliged entity, which is set up between an obliged entity and a customer, including in the absence of a written contract and which is expected to have, at the time when the contact is established, or which subsequently acquires, an element of repetition or duration",TRUE,TRUE,FALSE,,
-linked transactions,"‘linked transactions’ means two or more transactions with either identical or similar origin, destination and purpose, or other relevant characteristics, over a specific period;",TRUE,TRUE,FALSE,,
-third country,"‘third country’ means any jurisdiction, independent state or autonomous territory that is not part of the Union and that has its own AML/CFT legislation or enforcement regime",TRUE,TRUE,FALSE,,
+in the case of credit institutions and financial institutions, an infrastructure qualifying as an establishment under prudential regulation;",FALSE,FALSE,FALSE,FALSE,TRUE
+business relationship,"‘business relationship’ means a business, professional or commercial relationship connected with the professional activities of an obliged entity, which is set up between an obliged entity and a customer, including in the absence of a written contract and which is expected to have, at the time when the contact is established, or which subsequently acquires, an element of repetition or duration",TRUE,TRUE,FALSE,TRUE,FALSE
+linked transactions,"‘linked transactions’ means two or more transactions with either identical or similar origin, destination and purpose, or other relevant characteristics, over a specific period;",TRUE,TRUE,FALSE,TRUE,TRUE
+third country,"‘third country’ means any jurisdiction, independent state or autonomous territory that is not part of the Union and that has its own AML/CFT legislation or enforcement regime",TRUE,TRUE,FALSE,TRUE,TRUE
 correspondent relationship,"‘correspondent relationship’ means:
 
 (a)
@@ -206,7 +206,7 @@ the provision of banking services by one credit institution as the correspondent
 
 (b)
 
-the relationships between and among credit institutions and financial institutions including where similar services are provided by a correspondent institution to a respondent institution, and including relationships established for securities transactions or transfers of funds as defined in Article 4, point (25), of Directive (EU) 2015/2366, transactions in crypto-assets or transfers of crypto-assets",TRUE,TRUE,FALSE,,
+the relationships between and among credit institutions and financial institutions including where similar services are provided by a correspondent institution to a respondent institution, and including relationships established for securities transactions or transfers of funds as defined in Article 4, point (25), of Directive (EU) 2015/2366, transactions in crypto-assets or transfers of crypto-assets",TRUE,TRUE,FALSE,FALSE,TRUE
 shell institution,"‘shell institution’ means:
 
 (a)
@@ -215,26 +215,26 @@ for credit institutions and financial institutions other than crypto-asset servi
 
 (b)
 
-for crypto-asset service providers: an entity whose name appears in the register established by the European Securities and Markets Authority pursuant to Article 110 of Regulation (EU) 2023/1114 or third country entity providing crypto-asset services without being licensed or registered nor subject to AML/CFT supervision there",TRUE,TRUE,FALSE,,
+for crypto-asset service providers: an entity whose name appears in the register established by the European Securities and Markets Authority pursuant to Article 110 of Regulation (EU) 2023/1114 or third country entity providing crypto-asset services without being licensed or registered nor subject to AML/CFT supervision there",TRUE,TRUE,FALSE,TRUE,FALSE
 anonymity-enhancing coins,"        
-‘anonymity-enhancing coins’ means crypto-assets that have built-in features designed to make crypto-asset transfer information anonymous, either systematically or optionally",TRUE,TRUE,TRUE,,
-virtual IBAN,‘virtual IBAN’ means an identifier causing payments to be redirected to a payment account identified by an IBAN different from that identifier,TRUE,TRUE,TRUE,,
-Legal Entity Identifier,‘Legal Entity Identifier’ means a unique alphanumeric reference code based on the ISO 17442 standard assigned to a legal entity,TRUE,TRUE,TRUE,,
+‘anonymity-enhancing coins’ means crypto-assets that have built-in features designed to make crypto-asset transfer information anonymous, either systematically or optionally",TRUE,TRUE,TRUE,FALSE,FALSE
+virtual IBAN,‘virtual IBAN’ means an identifier causing payments to be redirected to a payment account identified by an IBAN different from that identifier,TRUE,TRUE,TRUE,FALSE,FALSE
+Legal Entity Identifier,‘Legal Entity Identifier’ means a unique alphanumeric reference code based on the ISO 17442 standard assigned to a legal entity,TRUE,TRUE,TRUE,TRUE,FALSE
 beneficial owner,"        
-‘beneficial owner’ means any natural person who ultimately owns or controls a legal entity or an express trust or similar legal arrangement",TRUE,TRUE,FALSE,,
+‘beneficial owner’ means any natural person who ultimately owns or controls a legal entity or an express trust or similar legal arrangement",TRUE,TRUE,FALSE,FALSE,TRUE
 express trust,"        
-‘express trust’ means a trust intentionally set up by the settlor, inter vivos or on death, usually in a form of written document, to place assets under the control of a trustee for the benefit of a beneficiary or for a specified purpose",TRUE,TRUE,TRUE,,
-objects of a power,‘objects of a power’ means the natural or legal persons or class of natural or legal persons among whom trustees may select the beneficiaries in a discretionary trust,TRUE,TRUE,TRUE,,
+‘express trust’ means a trust intentionally set up by the settlor, inter vivos or on death, usually in a form of written document, to place assets under the control of a trustee for the benefit of a beneficiary or for a specified purpose",TRUE,TRUE,TRUE,TRUE,TRUE
+objects of a power,‘objects of a power’ means the natural or legal persons or class of natural or legal persons among whom trustees may select the beneficiaries in a discretionary trust,TRUE,TRUE,TRUE,TRUE,FALSE
 default taker,"        
-‘default taker’ means the natural or legal persons or class of natural or legal persons who are the beneficiaries of a discretionary trust should the trustees fail to exercise their discretion;",TRUE,TRUE,FALSE,,
+‘default taker’ means the natural or legal persons or class of natural or legal persons who are the beneficiaries of a discretionary trust should the trustees fail to exercise their discretion;",TRUE,TRUE,FALSE,FALSE,TRUE
 legal arrangement,"        
-‘legal arrangement’ means an express trust or an arrangement which has a similar structure or function to an express trust, including fiducie and certain types of Treuhand and fideicomiso",TRUE,TRUE,TRUE,,
+‘legal arrangement’ means an express trust or an arrangement which has a similar structure or function to an express trust, including fiducie and certain types of Treuhand and fideicomiso",TRUE,TRUE,TRUE,TRUE,TRUE
 management body,"        
-‘management body’ means an obliged entity’s body or bodies, which are appointed in accordance with national law, which are empowered to set the obliged entity’s strategy, objectives and overall direction, and which oversee and monitor management decision-making, and include the persons who effectively direct the business of the obliged entity; where no such body exists, the person who effectively directs the business of the obliged entity",TRUE,TRUE,TRUE,,
-management body in its management function,‘management body in its management function’ means the management body responsible for the day-to-day management of the obliged entity,TRUE,TRUE,FALSE,,
+‘management body’ means an obliged entity’s body or bodies, which are appointed in accordance with national law, which are empowered to set the obliged entity’s strategy, objectives and overall direction, and which oversee and monitor management decision-making, and include the persons who effectively direct the business of the obliged entity; where no such body exists, the person who effectively directs the business of the obliged entity",TRUE,TRUE,TRUE,TRUE,FALSE
+management body in its management function,‘management body in its management function’ means the management body responsible for the day-to-day management of the obliged entity,TRUE,TRUE,FALSE,FALSE,FALSE
 management body in its supervisory function’,"        
-‘management body in its supervisory function’ means the management body acting in its role of overseeing and monitoring management decision-making",TRUE,TRUE,TRUE,,
+‘management body in its supervisory function’ means the management body acting in its role of overseeing and monitoring management decision-making",TRUE,TRUE,TRUE,TRUE,TRUE
 senior management,"        
-‘senior management’ means the members of the management body in its management function, as well as officers and employees with sufficient knowledge of the obliged entity’s money laundering and terrorist financing risk exposure and sufficient seniority to take decisions affecting its risk exposure",TRUE,TRUE,TRUE,,
+‘senior management’ means the members of the management body in its management function, as well as officers and employees with sufficient knowledge of the obliged entity’s money laundering and terrorist financing risk exposure and sufficient seniority to take decisions affecting its risk exposure",TRUE,TRUE,TRUE,TRUE,FALSE
 group,"        
-‘group’ means a group of undertakings which consists of a parent undertaking, its subsidiaries, as well as undertakings linked to each other by a relationship within the meaning of Article 22 of Directive 2013/34/EU",TRUE,TRUE,TRUE,,
+‘group’ means a group of undertakings which consists of a parent undertaking, its subsidiaries, as well as undertakings linked to each other by a relationship within the meaning of Article 22 of Directive 2013/34/EU",TRUE,TRUE,TRUE,TRUE,TRUE
