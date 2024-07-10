@@ -61,8 +61,8 @@ We will follow the following timeline
 ## Contact
 
 For more information, feel free to reach out to the project maintainers:
-- Ian: [Email]
-- Maurizio (Mao): [Email]
+- Ian: ian@southcardinal.ie 
+- Maurizio (Mao): maoo@finos.org 
 
 We look forward to your contributions and collaboration to make regulatory reporting more efficient and scalable.
 
