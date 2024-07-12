@@ -1,52 +1,52 @@
-definitions,GPT4,GPT4o,GPT3,Mistral,Llama3
-technical support,TRUE,FALSE,FALSE,TRUE,FALSE
-national authority,TRUE,TRUE,FALSE,TRUE,TRUE
-Union funds,TRUE,TRUE,FALSE,TRUE,TRUE
-international organisation,TRUE,TRUE,FALSE,TRUE,FALSE
-international organisation,TRUE,TRUE,FALSE,FALSE,FALSE
-European Semester for economic policy coordination,TRUE,TRUE,FALSE,TRUE,TRUE
-country-specific recommendations,TRUE,TRUE,FALSE,FALSE,TRUE
-the rule of law,TRUE,TRUE,TRUE,TRUE,TRUE
-government entity,FALSE,TRUE,FALSE,TRUE,TRUE
-selected obliged entity,TRUE,TRUE,FALSE,TRUE,FALSE
-non-selected obliged entity,FALSE,TRUE,FALSE,FALSE,FALSE
-AML/CFT supervisory system,TRUE,TRUE,FALSE,FALSE,FALSE
-non-AML/CFT authority,TRUE,TRUE,FALSE,TRUE,FALSE
-crypto-asset,TRUE,TRUE,FALSE,FALSE,TRUE
-electronic money token,　TRUE,TRUE,TRUE,FALSE,TRUE
-crypto-asset exposure,TRUE,TRUE,FALSE,TRUE,TRUE
-traditional asset,TRUE,TRUE,FALSE,TRUE,TRUE
-tokenised traditional asset,TRUE,TRUE,TRUE,FALSE,FALSE
-centralised information system,FALSE,TRUE,FALSE,TRUE,FALSE
-communication software,FALSE,TRUE,TRUE,TRUE,FALSE
-money laundering,TRUE,TRUE,TRUE,TRUE,FALSE
-terrorist financing,TRUE,TRUE,TRUE,TRUE,TRUE
-criminal activity’,TRUE,TRUE,FALSE,FALSE,TRUE
-credit institution,TRUE,TRUE,FALSE,TRUE,TRUE
-financial institution,　TRUE,TRUE,FALSE,TRUE,TRUE
-crypto-asset services,TRUE,TRUE,FALSE,TRUE,TRUE
-crypto-asset service provider,TRUE,TRUE,FALSE,FALSE,TRUE
-financial mixed activity holding company,TRUE,TRUE,FALSE,FALSE,FALSE
-trust or company service provider,TRUE,TRUE,FALSE,TRUE,FALSE
-gambling service,TRUE,TRUE,FALSE,TRUE,TRUE
-crowdfunding intermediary,TRUE,TRUE,FALSE,TRUE,FALSE
-establishment’,FALSE,FALSE,FALSE,FALSE,TRUE
-business relationship,TRUE,TRUE,FALSE,TRUE,FALSE
-linked transactions,TRUE,TRUE,FALSE,TRUE,TRUE
-third country,TRUE,TRUE,FALSE,TRUE,TRUE
-correspondent relationship,TRUE,TRUE,FALSE,FALSE,TRUE
-shell institution,TRUE,TRUE,FALSE,TRUE,FALSE
-anonymity-enhancing coins,TRUE,TRUE,TRUE,FALSE,FALSE
-virtual IBAN,TRUE,TRUE,TRUE,FALSE,FALSE
-Legal Entity Identifier,TRUE,TRUE,TRUE,TRUE,FALSE
-beneficial owner,TRUE,TRUE,FALSE,FALSE,TRUE
-express trust,TRUE,TRUE,TRUE,TRUE,TRUE
-objects of a power,TRUE,TRUE,TRUE,TRUE,FALSE
-default taker,TRUE,TRUE,FALSE,FALSE,TRUE
-legal arrangement,TRUE,TRUE,TRUE,TRUE,TRUE
-management body,TRUE,TRUE,TRUE,TRUE,FALSE
-management body in its management function,TRUE,TRUE,FALSE,FALSE,FALSE
-management body in its supervisory function’,TRUE,TRUE,TRUE,TRUE,TRUE
-senior management,TRUE,TRUE,TRUE,TRUE,FALSE
-group,TRUE,TRUE,TRUE,TRUE,TRUE
-Overall performance,0.9,0.96,0.32,0.66,0.54
+definitions,GPT4,GPT4o,GPT3,Mistral,Llama3 1-Shot,Llama3 0-Shot
+technical support,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+national authority,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Union funds,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+international organisation,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+international organisation,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+European Semester for economic policy coordination,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+country-specific recommendations,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+the rule of law,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+government entity,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+selected obliged entity,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+non-selected obliged entity,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+AML/CFT supervisory system,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+non-AML/CFT authority,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+crypto-asset,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE
+electronic money token,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+crypto-asset exposure,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+traditional asset,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+tokenised traditional asset,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+centralised information system,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+communication software,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+money laundering,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+terrorist financing,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+criminal activity’,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+credit institution,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+financial institution,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+crypto-asset services,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+crypto-asset service provider,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE
+financial mixed activity holding company,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+trust or company service provider,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+gambling service,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+crowdfunding intermediary,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+establishment’,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+business relationship,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+linked transactions,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+third country,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+correspondent relationship,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+shell institution,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+anonymity-enhancing coins,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+virtual IBAN,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Legal Entity Identifier,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+beneficial owner,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+express trust,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+objects of a power,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+default taker,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+legal arrangement,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+management body,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+management body in its management function,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+management body in its supervisory function’,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+senior management,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+group,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Overall performance,0.900,0.960,0.320,0.660,0.540,0.380
