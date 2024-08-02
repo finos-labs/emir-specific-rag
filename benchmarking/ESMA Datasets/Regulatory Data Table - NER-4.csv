@@ -1,5 +1,5 @@
 Model,"Question: Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics",Organizations,Legislations,Dates,Monetary Values,Statistics,Response
-ChatGPT4o,"Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”) entered into force on 16 August 2012.",TRUE,TRUE,TRUE,None,None,"Organizations: 
+ChatGPT4o,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsRegulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”) entered into force on 16 August 2012.",TRUE,TRUE,TRUE,None,None,"Organizations: 
   - European Parliament
   - Council of the European Union
 
@@ -15,13 +15,13 @@ ChatGPT4o,"Regulation (EU) No 648/2012 of the European Parliament and of the Cou
 
 - **Statistics**: 
   - None"
-ChatGPT4o,Most of the obligations under EMIR needed to be specified further via regulatory technical standards and they will take effect following the entry into force of the technical standards. ,None,FALSE,TRUE,None,None,"Organizations: None mentioned in the text.
+ChatGPT4o,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsMost of the obligations under EMIR needed to be specified further via regulatory technical standards and they will take effect following the entry into force of the technical standards. ",None,FALSE,TRUE,None,None,"Organizations: None mentioned in the text.
 - **Legislations**: EMIR (European Market Infrastructure Regulation).
 - **Dates**: Not specified in the text.
 - **Monetary Values**: Not mentioned in the text.
 - **Statistics**: Not applicable in this context."
-ChatGPT4o,On 19 December 2012 the European Commission adopted without modifications the regulatory technical standards developed by ESMA. ,TRUE,FALSE,TRUE,None,None,"Organizations: European Commission, ESMA (European Securities and Markets Authority)Legislations: Regulatory Technical StandardsDates: 19 December 2012Monetary Values: None mentionedStatistics: None mentioned"
-ChatGPT4o,These technical standards were published in the Official Journal on 23 February 2013 and en- tered into force on 15 March 2013.,FALSE,None,TRUE,None,None,Organizations: Official Journal Legislations: None mentionedDates:Publication Date: 23 February 2013Entry into Force Date: 15 March 2013Monetary Values: None mentionedStatistics: None mentioned
+ChatGPT4o,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsOn 19 December 2012 the European Commission adopted without modifications the regulatory technical standards developed by ESMA. ",TRUE,FALSE,TRUE,None,None,"Organizations: European Commission, ESMA (European Securities and Markets Authority)Legislations: Regulatory Technical StandardsDates: 19 December 2012Monetary Values: None mentionedStatistics: None mentioned"
+ChatGPT4o,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsThese technical standards were published in the Official Journal on 23 February 2013 and en- tered into force on 15 March 2013.",FALSE,None,TRUE,None,None,Organizations: Official Journal Legislations: None mentionedDates:Publication Date: 23 February 2013Entry into Force Date: 15 March 2013Monetary Values: None mentionedStatistics: None mentioned
 ChatGPT4o,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
 Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”);",TRUE,TRUE,TRUE,None,None,"- **Organizations**: European Parliament, Council
 - **Legislations**: Regulation (EU) No 648/2012, EMIR
@@ -614,5 +614,1731 @@ ChatGPT4o,"Given the following text, only list the following for each: specific 
 
 - Monetary Values: [none specified]"
 ChatGPT4o,Overall,0.8571,0.9592,0.9796,0.9796,0.9592,0.9469387755
-,,,,,,,
-,,,,,,,
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsRegulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”) entered into force on 16 August 2012.",TRUE,TRUE,TRUE,None,None,"Organizations: European Parliament, the Council
+Legislations: Regulation (EU) No 648/2012
+Dates: 4 July 2012, 16 August 2012
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsMost of the obligations under EMIR needed to be specified further via regulatory technical standards and they will take effect following the entry into force of the technical standards. ",None,FALSE,None,None,None,"Organizations: None
+Legislations: EMIR
+Dates: None
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsOn 19 December 2012 the European Commission adopted without modifications the regulatory technical standards developed by ESMA. ",TRUE,FALSE,TRUE,None,None,"Organizations: European Commission, ESMA
+Legislations: Regulatory technical standards
+Dates: 19 December 2012
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsThese technical standards were published in the Official Journal on 23 February 2013 and en- tered into force on 15 March 2013.",TRUE,FALSE,TRUE,None,None,"Organizations: Official Journal
+Legislations: Technical Standards
+Dates: 23 February 2013, 15 March 2013
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”);",TRUE,TRUE,TRUE,None,None,"Organizations: European Parliament, the Council
+Legislations: Regulation (EU) No 648/2012
+Dates: 4 July 2012
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Implementing Regulation (EU) No 1247/2012 of 19 December 2012 laying down implementing technical standards with regard to the format and fre- quency of trade reports to trade repositories according to Regulation (EU) No 648/2012;",FALSE,TRUE,TRUE,None,None,"Organizations: Commission
+Legislations: Commission Implementing Regulation (EU) No 1247/2012, Regulation (EU) No 648/2012
+Dates: 19 December 2012
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Implementing Regulation (EU) No 1248/2012 of 19 December 2012 laying down implementing technical standards with regard to the format of appli- cations for registration of trade repositories according to Regulation (EU) No 648/2012;",FALSE,TRUE,TRUE,None,None,"Organizations: Commission
+Legislations: Commission Implementing Regulation (EU) No 1248/2012, Regulation (EU) No 648/2012
+Dates: 19 December 2012
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Implementing Regulation (EU) No 1249/2012 of 19 December 2012 laying down implementing technical standards with regard to the format of the rec- ords to be maintained by central counterparties according to Regulation (EU) No 648/2012;",FALSE,TRUE,TRUE,None,None,"Organizations: Commission
+Legislations: Commission Implementing Regulation (EU) No 1249/2012, Regulation (EU) No 648/2012
+Dates: 19 December 2012
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 148/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on the minimum details of the data to be reported to trade repositories;",FALSE,TRUE,TRUE,None,None,"Organizations: Commission
+Legislations: Commission Delegated Regulation (EU) No 148/2013, Regulation (EU) No 648/2012
+Dates: 19 December 2012
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 149/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on indirect clearing arrangements, the clearing obligation, the public register, access to a trading venue, non-financial counterparties, and risk mitigation tech- niques for OTC derivatives contracts not cleared by a CCP;",FALSE,TRUE,TRUE,None,None,"Organizations: Commission
+Legislations: Commission Delegated Regulation (EU) No 149/2013, Regulation (EU) No 648/2012
+Dates: 19 December 2012
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 150/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards specifying the details of the application for registration as a trade repository;",FALSE,TRUE,TRUE,None,None,"Organizations: Commission
+Legislations: Commission Delegated Regulation (EU) No 150/2013, Regulation (EU) No 648/2012
+Dates: 19 December 2012
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 151/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards specifying the data to be published and made available by trade repositories and operational standards for aggregating, comparing and accessing the data;",FALSE,TRUE,TRUE,None,None,"Organizations: Commission
+Legislations: Commission Delegated Regulation (EU) No 151/2013, Regulation (EU) No 648/2012
+Dates: 19 December 2012
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 152/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on capital requirements for central counterparties;",FALSE,TRUE,TRUE,None,None,"Organizations: Commission
+Legislations: Commission Delegated Regulation (EU) No 152/2013, Regulation (EU) No 648/2012
+Dates: 19 December 2012
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 153/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on requirements for central counterparties;",FALSE,TRUE,TRUE,None,None,"Organizations: Commission
+Legislations: Commission Delegated Regulation (EU) No 153/2013, Regulation (EU) No 648/2012
+Dates: 19 December 2012
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 2017/2155 of 22 September 2017 amending Delegated Regulation (EU) No 149/2013 with regards to regulatory tech- nical standards on indirect clearing arrangements.",FALSE,TRUE,TRUE,None,None,"Organizations: Commission
+Legislations: Commission Delegated Regulation (EU) No 2017/2155, Delegated Regulation (EU) No 149/2013
+Dates: 22 September 2017
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+- The derivative is concluded on 1 June 2018;
+- notional of the contract: 1M€;
+- maturity date of the contract: 31 December 2018;
+- the swap is physically settled;
+- Bank A sells EUR and gets GBP for the near leg (and delivers GBP and receives EUR for
+the far leg);
+- the exchange rate of the near leg is 0.88 EUR/GBP, while the exchange rate of the far leg
+is 0.865 EUR/GBP;
+- the two settlement dates are 01/08/2018 and 02/01/2019.",TRUE,None,TRUE,TRUE,TRUE,"Organizations: Bank A
+Legislations: None
+Dates: 1 June 2018, 31 December 2018, 01/08/2018, 02/01/2019
+Monetary Values: 1M€
+Statistics: exchange rate of the near leg is 0.88 EUR/GBP, exchange rate of the far leg is 0.865 EUR/GBP"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+When can counterparties start notifying the national competent authorities (NCAs) of their intention to apply the reporting exemption in accordance with Article 9(1) EMIR, as amended by Regulation 2019/834?",TRUE,TRUE,None,None,None,"Organizations: National competent authorities (NCAs)
+Legislations: Article 9(1) EMIR, Regulation 2019/834
+Dates: None
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+On which day does the three-month period referred to in Article 9(1) EMIR, as amended by Regu- lation 2019/834, start?
+",None,TRUE,FALSE,None,FALSE,"Organizations: None
+Legislations: Article 9(1) EMIR, Regulation 2019/834
+Dates: None
+Monetary Values: None
+Statistics: Three-month period"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+From and until when is the reporting exemption valid in accordance with Article 9(1) EMIR, as amended by Regulation 2019/834?
+",None,TRUE,None,None,None,"Organizations: None
+Legislations: Article 9(1) EMIR, Regulation 2019/834 
+Dates: None
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The FC belongs to both a group of undertakings referred to in Article 3(1) or Article 80(7) and (8) of Directive 2006/48/EC (CRD), and another group referred to in Articles 1 and 2 of Directive 83/349/EEC, and",FALSE,TRUE,None,None,None,"Organizations: None
+Legislations: Article 3(1), Article 80(7) and (8) of Directive 2006/48/EC (CRD), Articles 1 and 2 of Directive 83/349/EEC
+Dates: None
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+It could be challenging for a counterparty performing calculations a few days after the end of the previous month to calculate and use the month-end position of that month. For that reason, the counterparty could calculate with the 12-month period that started a month earlier and ended with the previous month- end. E.g. if a counterparty is performing calculations on 1 November 2019 and encounters difficulties with calculating its positions using the figures from 1 November 2018 to 31 October 2019, it can use a 12-month period ending on the previous month: from 1 October 2018 to 30 September 2019.",None,None,TRUE,None,FALSE,"Organizations: None
+Legislations: None
+Dates: 1 November 2019, 1 November 2018, 31 October 2019, 1 October 2018, 30 September 2019
+Monetary Values: None
+Statistics: 12-month period"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A trade repository to which a request under Article 8 of Implementing Regulation (EU) 2022/1860 is addressed shall identify the outstanding derivatives referred to in paragraph 2 of Article 2 of Implementing Regulation (EU) 2022/1860 at the time of the corporate restructuring event, where the entity is reported with the identifier used before the corporate restructuring event in the field ‘Counterparty 1’ or ‘Counterparty 2’, as informed in the relevant request. It shall replace the old identifier with the new Legal Entity Identifier (‘LEI’) in the reports relating to all those derivatives at the time of the event referred to in Article 8 of Implementing Regulation (EU) 2022/1860 pertaining to that counterparty. A trade repository shall perform the procedure on the update of the identifier at the latest on the day of restructuring or within 30 calendar days as of receipt of the request if reported less than 30 calendar days prior to the date of the corporate restructuring event.",FALSE,TRUE,FALSE,None,FALSE,"Organizations: None
+Legislations: Article 8 of Implementing Regulation (EU) 2022/1860, paragraph 2 of Article 2 of Implementing Regulation (EU) 2022/1860
+Dates: None
+Monetary Values: None
+Statistics: 30 calendar days"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A trade repository shall identify the relevant derivatives referred to in paragraph 2 of Article 2 of Implementing Regulation (EU) 2022/1860 at the time of the corporate restructuring event, where the entity is identified with the old identifier in any of the fields, and replace that identifier with the new LEI. Where a corporate restructuring event relates to an update of the LEI for fields other than ‘Counterparty 1’ or ‘Counterparty 2’, the trade repository shall perform such an update of the relevant derivatives only following a timely confirmation by counterparty 1 or the entity responsible for reporting.",FALSE,TRUE,None,None,None,"Organizations: None
+Legislations: paragraph 2 of Article 2 of Implementing Regulation (EU) 2022/1860
+Dates: None
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A trade repository shall carry out the following actions: broadcast the following information at the earliest possibility, and no later than 5 working days after the complete notification is received, to all the other trade repositories and to the reporting counterparties, report submitting entities, entities responsible for reporting involved in the derivatives contracts concerned by the LEI update, and to third parties which have been granted access to information under Article 78(7) of Regulation (EU) No 648/2012, as applicable:",TRUE,TRUE,FALSE,None,FALSE,"Organizations: Trade repository
+Legislations: Article 78(7) of Regulation (EU) No 648/2012
+Dates: None
+Monetary Values: None
+Statistics: 5 working days"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+If a counterparty notifies ESMA and the relevant NCAs that it is above the clearing thresholds or that it has not calculated its positions against the clearing thresholds, it will become subject to the clearing obligation and will have to start clearing OTC derivative contracts (pertaining to a class of OTC derivatives which is subject to the clearing obligation) entered into or novated more than 4 months following such notification (i.e. entered into or novated on the first day following the end of this 4-month period or afterwards, for instance; for a notification on 15 January, the trades entered into or novated on 16 May or afterwards). If during this 4-month period, the counterparty demonstrates in accordance with Article 4a(2) and Article10(2) of EMIR for FCs and NFCs respectively to the relevant NCAs that it is below the clearing thresholds and notifies ESMA and the relevant NCAs accordingly, it will no longer be subject to the clearing obligation and will not have to start clearing at the end of the 4-month period.",TRUE,TRUE,FALSE,None,FALSE,"Organizations: ESMA, Relevant NCAs
+Legislations: Article 4a(2) and Article10(2) of EMIR
+Dates: None
+Monetary Values: None
+Statistics: Clearing thresholds, 4-month period"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+find the average of the total amount across the 12 months by dividing that number by 12 for each asset class;",None,None,FALSE,None,FALSE,"Organizations: None
+Legislations: None
+Dates: None
+Monetary Values: None
+Statistics: Average of the total amount across the 12 months"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsA is an NFC
+• B is an NFC in the same group as A, and B is the entity specialised in dealing derivatives with
+entities outside the group
+• A and B enter into an OTC derivative transaction, with a notional value of 100, e.g. A buys 100
+and B sells 100
+• B enters into an opposite transaction with an entity outside the group (C), i.e. B buys 100 from
+C.",TRUE,None,None,TRUE,None,"Organizations: A, B, C
+Legislations: None
+Dates: None
+Monetary Values: 100
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+300, if the transaction between A and B does not satisfy the hedging conditions with respect to A, i.e. 100 for the buy transaction between A and B, 100 for the sell transaction between B and A, and 100 for the buy transaction between B and C.",TRUE,None,None,TRUE,None,"Organizations: A, B, C
+Legislations: None
+Dates: None
+Monetary Values: 300, 100, 100, 100
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ if a counterparty is performing calculations on 1 November 2019 and encounters difficulties with calculating its positions using the figures from 1 November 2018 to 31 October 2019, it can use a 12-month period ending on the previous month: from 1 October 2018 to 30 September 2019.",None,None,TRUE,None,FALSE,"Organizations: None
+Legislations: None
+Dates: 1 November 2019, 1 November 2018, 31 October 2019, 1 October 2018, 30 September 2019
+Monetary Values: None
+Statistics: 12-month period"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ESMA is of the view that in the case of AIFs the exemption for intragroup transactions should be construed narrowly, and that in most cases it will not be possible for the exemption to be used. An AIF can only make use of the exemption for intragroup transactions if it has been established to form part of the same group (as defined in Article 2(16) of EMIR) as the counterparty to the OTC derivative contract and if it fulfils all the criteria for intragroup transactions set out in Article 3(2)(a)(i)(iv), (b), or (d) of EMIR.",TRUE,TRUE,None,None,None,"Organizations: ESMA, AIFs
+Legislations: Article 2(16) of EMIR, Article 3(2)(a)(i)(iv), (b), or (d) of EMIR
+Dates: None
+Monetary Values: None
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+15 December 2014 (yearly requirement) if the NFC- is still a NFC- on 15 December 2013, and if the number of its outstanding contracts with Counterparty X was below 100 at all time during the previous reconciliation period, i.e. from 15 September 2013 to 15 December
+2013. This should be assessed on the reconciliation date, i.e. on 15 December 2013.",TRUE,None,TRUE,None,TRUE,"Organizations: NFC-
+Legislations: None
+Dates: 15 December 2014, 15 December 2013, 15 September 2013
+Monetary Values: None
+Statistics: Below 100"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+the position as defined in Article 26 of the RTS on CCP require- ments, respecting at least the confidence intervals of 99,5% for OTC derivatives and 99% for other financial instruments.",FALSE,TRUE,None,None,TRUE,"Organizations: CCP
+Legislations: Article 26 of the RTS on CCP
+Dates: None
+Monetary Values: None
+Statistics: 99.5%, 99%"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Article45(2)ofCommissionDelegatedReg- ulation (EU) No 153/2013 states that “not less than 95% of such cash” shall be deposited through “arrangements that ensure the collateralisation of the cash with highly liquid financial instru- ments...”",None,TRUE,None,None,TRUE,"Organizations: None
+Legislations: Article 45(2) of Commission Delegated Regulation (EU) No 153/2013
+Dates: None
+Monetary Values: None
+Statistics: Not less than 95%"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Article 45(2) of Commission Delegated Regulation (EU) No 153/2013 (RTS on CCP require- ments) provides that where cash is deposited other than with a central bank in accordance with Article 47(4), and is maintained overnight, then not less than 95% of such cash must be depos- ited through arrangements",None,TRUE,None,None,TRUE,"Organizations: None
+Legislations: Article 45(2) of Commission Delegated Regulation (EU) No 153/2013, Article 47(4)
+Dates: None
+Monetary Values: None
+Statistics: Not less than 95%"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The size of the additional contribution is limited to a pre-defined monetary amount (e.g. an as- sessment of up to EUR XX million per clearing member)?",None,None,None,TRUE,None,"Organizations: None
+Legislations: None
+Dates: None
+Monetary Values: EUR XX million
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The variation margin reduction is limited to a pre-defined monetary amount (e.g. an assess- ment of up to EUR XX million per clearing member)?",None,None,None,TRUE,None,"Organizations: None
+Legislations: None
+Dates: None
+Monetary Values: EUR XX million
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract drops so that the VM requirement of A is reduced to 9.8 million. However, the MTA is set at 500,000.",FALSE,None,None,TRUE,None,"Organizations: None
+Legislations: None
+Dates: None
+Monetary Values: 9.8 million, 500,000
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract drops further and A needs to return additionally 1.8 million VM back to B. The total amount of VM returned by A is 2 million (0.2 million + 1.8 million).",TRUE,None,None,TRUE,None,"Organizations: A, B
+Legislations: None
+Dates: None
+Monetary Values: 1.8 million, 2 million, 0.2 million
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ Due to valuation of the contract15 B has to provide 10 million as VM to A.",TRUE,None,None,TRUE,None,"Organizations: A, B
+Legislations: None
+Dates: None
+Monetary Values: 10 million
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract rises and A receives 5 million VM from B.",TRUE,None,None,TRUE,None,"Organizations: A, B
+Legislations: None
+Dates: None
+Monetary Values: 5 million
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract drops again and turns negative for A. Therefore A has to provide 20 million VM to B.",TRUE,None,None,TRUE,None,"Organizations: A, B
+Legislations: None
+Dates: None
+Monetary Values: 20 million
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A partially sells the contract and receives 5 million VM back from B.",TRUE,None,None,TRUE,None,"Organizations: A, B
+Legislations: None
+Dates: None
+Monetary Values: 5 million
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Counterparty 1 concludes a new trade 789 with the Counterparty 2 with quantity 5000. The trade in compressed into the existing position ABCD on the same day. Hence, the trade is reported by the Counterparty 1 on the following day with Action type “Position component” (“P”).",TRUE,None,None,FALSE,TRUE,"Organizations: Counterparty 1, Counterparty 2
+Legislations: None
+Dates: None
+Monetary Values: None
+Statistics: 5000"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Upon compression, trade 789 is included into the position ABCD. This is reported on the following day as modification of the position by increase in the quantity from 10 000 to 15 000.
+",None,None,None,None,TRUE,"Organizations: None
+Legislations: None
+Dates: None
+Monetary Values: None
+Statistics: 10 000, 15 000"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Another trade between the counterparties with quantity 7.000 takes place on 28.08.2015 and is compressed into the existing position. Counterparty reports the conclusion and compression of the trade using the Action type “Position component”.
+",FALSE,None,TRUE,None,TRUE,"Organizations: None
+Legislations: None
+Dates: 28.08.2015
+Monetary Values: None
+Statistics: 7.000"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The position is modified by increase in the quantity from 15 000 to 22 000 28.08.2015. The modification is reported on the following day.",None,None,TRUE,None,TRUE,"Organizations: None
+Legislations: None
+Dates: 28.08.2015
+Monetary Values: None
+Statistics: 15 000, 22 000"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+On 29.08.2015 the total of 22.000 quantity is sold. The new transaction is also netted into the position on the same day. Accordingly, the counterparty reports the transaction with Action type “Position component” (“P) and indicating it is a “Sell”.",FALSE,None,TRUE,None,TRUE,"Organizations: None
+Legislations: None
+Dates: 29.08.2015
+Monetary Values: None
+Statistics: 22.000"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+No new trades are concluded on 30-31.09.2015. Given that the position has not been terminated, Counterparty submits only the Valuation reports, with valuation and collateral amounts equal to zero.
+",FALSE,None,TRUE,FALSE,FALSE,"Organizations: None
+Legislations: None
+Dates: 30-31.09.2015
+Monetary Values: Zero
+Statistics: None"
+ChatGPT4,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ On 01.09.2015 a new trade with quantity 300 takes place between the same counterparties and is compressed into the previous position.",FALSE,None,TRUE,None,TRUE,"Organizations: None
+Legislations: None
+Dates: 01.09.2015
+Monetary Values: None
+Statistics: 300"
+ChatGPT4,Overall,0.6122,0.9388,0.8980,0.9592,0.8367,0.8489795918
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsRegulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”) entered into force on 16 August 2012.",TRUE,TRUE,TRUE,None,None,"organizations: European Parliament, European CouncilLegislation: Regulation (EU) No 648/2012 (EMIR)Dates: 4 July 2012, 16 August 2012Monetary Values: None mentionedStatistics: None mentioned"
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsMost of the obligations under EMIR needed to be specified further via regulatory technical standards and they will take effect following the entry into force of the technical standards. ",TRUE,FALSE,FALSE,None,None,organizations: - European Securities and Markets Authority (ESMA) - European Market Infrastructure Regulation (EMIR)Legislations:- European Market Infrastructure Regulation (EMIR)Dates:- Not specified in the textMonetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsOn 19 December 2012 the European Commission adopted without modifications the regulatory technical standards developed by ESMA. ",TRUE,FALSE,TRUE,None,None,organizations:- European Commission- European Securities and Markets Authority (ESMA)Legislations:- Not specified in the textDates:- 19 December 2012Monetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsThese technical standards were published in the Official Journal on 23 February 2013 and en- tered into force on 15 March 2013.",FALSE,None,TRUE,None,None,organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Published in the Official Journal on 23 February 2013- Entered into force on 15 March 2013Monetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”);",TRUE,TRUE,TRUE,None,None,organizations:- European Parliament- European CouncilLegislations:- Regulation (EU) No 648/2012 (EMIR)Dates:- 4 July 2012Monetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Implementing Regulation (EU) No 1247/2012 of 19 December 2012 laying down implementing technical standards with regard to the format and fre- quency of trade reports to trade repositories according to Regulation (EU) No 648/2012;",TRUE,TRUE,TRUE,None,None,organizations:- European CommissionLegislations:- Commission Implementing Regulation (EU) No 1247/2012- Regulation (EU) No 648/2012Dates:- 19 December 2012Monetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Implementing Regulation (EU) No 1248/2012 of 19 December 2012 laying down implementing technical standards with regard to the format of appli- cations for registration of trade repositories according to Regulation (EU) No 648/2012;",TRUE,TRUE,TRUE,None,None,organizations:- European CommissionLegislations:- Commission Implementing Regulation (EU) No 1248/2012- Regulation (EU) No 648/2012Dates:- 19 December 2012Monetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Implementing Regulation (EU) No 1249/2012 of 19 December 2012 laying down implementing technical standards with regard to the format of the rec- ords to be maintained by central counterparties according to Regulation (EU) No 648/2012;",TRUE,TRUE,TRUE,None,None,organizations:- European CommissionLegislations:- Commission Implementing Regulation (EU) No 1249/2012- Regulation (EU) No 648/2012Dates:- 19 December 2012Monetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 148/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on the minimum details of the data to be reported to trade repositories;",TRUE,TRUE,TRUE,None,None,organizations:- European CommissionLegislations:- Commission Delegated Regulation (EU) No 148/2013- Regulation (EU) No 648/2012Dates:- 19 December 2012Monetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 149/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on indirect clearing arrangements, the clearing obligation, the public register, access to a trading venue, non-financial counterparties, and risk mitigation tech- niques for OTC derivatives contracts not cleared by a CCP;",TRUE,TRUE,TRUE,None,None,organizations:- European CommissionLegislations:- Commission Delegated Regulation (EU) No 149/2013- Regulation (EU) No 648/2012Dates:- 19 December 2012Monetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 150/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards specifying the details of the application for registration as a trade repository;",TRUE,TRUE,TRUE,None,None,organizations:- European CommissionLegislations:- Commission Delegated Regulation (EU) No 150/2013- Regulation (EU) No 648/2012Dates:- 19 December 2012Monetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 151/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards specifying the data to be published and made available by trade repositories and operational standards for aggregating, comparing and accessing the data;",TRUE,TRUE,TRUE,None,None,organizations:- European CommissionLegislations:- Commission Delegated Regulation (EU) No 151/2013- Regulation (EU) No 648/2012Dates:- 19 December 2012Monetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 152/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on capital requirements for central counterparties;",TRUE,TRUE,TRUE,None,None,organizations:- European CommissionLegislations:- Commission Delegated Regulation (EU) No 152/2013- Regulation (EU) No 648/2012Dates:- 19 December 2012Monetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 153/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on requirements for central counterparties;",TRUE,TRUE,TRUE,None,None,organizations:- European CommissionLegislations:- Commission Delegated Regulation (EU) No 153/2013- Regulation (EU) No 648/2012Dates:- 19 December 2012Monetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 2017/2155 of 22 September 2017 amending Delegated Regulation (EU) No 149/2013 with regards to regulatory tech- nical standards on indirect clearing arrangements.",TRUE,TRUE,TRUE,None,None,organizations:- European CommissionLegislations:- Commission Delegated Regulation (EU) No 2017/2155- Delegated Regulation (EU) No 149/2013Dates:- 22 September 2017Monetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+- The derivative is concluded on 1 June 2018;
+- notional of the contract: 1M€;
+- maturity date of the contract: 31 December 2018;
+- the swap is physically settled;
+- Bank A sells EUR and gets GBP for the near leg (and delivers GBP and receives EUR for
+the far leg);
+- the exchange rate of the near leg is 0.88 EUR/GBP, while the exchange rate of the far leg
+is 0.865 EUR/GBP;
+- the two settlement dates are 01/08/2018 and 02/01/2019.",FALSE,None,TRUE,TRUE,FALSE,"Specific Organizations: 
+- Not specified in the text
+
+Legislations:
+- Not specified in the text
+
+Dates:
+- Derivative concluded on 1 June 2018
+- Maturity date of the contract: 31 December 2018
+- Settlement dates: 01/08/2018 and 02/01/2019
+
+Monetary Values:
+- Notional of the contract: 1M€
+- Exchange rate of the near leg: 0.88 EUR/GBP
+- Exchange rate of the far leg: 0.865 EUR/GBP
+
+Statistics:
+- Not specified in the text"
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+When can counterparties start notifying the national competent authorities (NCAs) of their intention to apply the reporting exemption in accordance with Article 9(1) EMIR, as amended by Regulation 2019/834?",TRUE,TRUE,None,None,None,organizations:- National Competent Authorities (NCAs)Legislations:- Regulation 2019/834 amending Article 9(1) of EMIRDates:- Not specified in the textMonetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+On which day does the three-month period referred to in Article 9(1) EMIR, as amended by Regu- lation 2019/834, start?
+",FALSE,TRUE,FALSE,None,None,organizations:- Not specified in the textLegislations:- Regulation 2019/834 amending EMIR Article 9(1)Dates:- Not specified in the textMonetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+From and until when is the reporting exemption valid in accordance with Article 9(1) EMIR, as amended by Regulation 2019/834?
+",None,TRUE,None,None,None,organizations:- Not specified in the textLegislations:- Regulation 2019/834 amending EMIR Article 9(1)Dates:- Not specified in the textMonetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The FC belongs to both a group of undertakings referred to in Article 3(1) or Article 80(7) and (8) of Directive 2006/48/EC (CRD), and another group referred to in Articles 1 and 2 of Directive 83/349/EEC, and",FALSE,TRUE,None,None,None,organizations:- Not specified in the textLegislations:- Directive 2006/48/EC (CRD)- Directive 83/349/EECDates:- Not specified in the textMonetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+It could be challenging for a counterparty performing calculations a few days after the end of the previous month to calculate and use the month-end position of that month. For that reason, the counterparty could calculate with the 12-month period that started a month earlier and ended with the previous month- end. E.g. if a counterparty is performing calculations on 1 November 2019 and encounters difficulties with calculating its positions using the figures from 1 November 2018 to 31 October 2019, it can use a 12-month period ending on the previous month: from 1 October 2018 to 30 September 2019.",None,None,FALSE,None,None,organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Not specified in the textMonetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A trade repository to which a request under Article 8 of Implementing Regulation (EU) 2022/1860 is addressed shall identify the outstanding derivatives referred to in paragraph 2 of Article 2 of Implementing Regulation (EU) 2022/1860 at the time of the corporate restructuring event, where the entity is reported with the identifier used before the corporate restructuring event in the field ‘Counterparty 1’ or ‘Counterparty 2’, as informed in the relevant request. It shall replace the old identifier with the new Legal Entity Identifier (‘LEI’) in the reports relating to all those derivatives at the time of the event referred to in Article 8 of Implementing Regulation (EU) 2022/1860 pertaining to that counterparty. A trade repository shall perform the procedure on the update of the identifier at the latest on the day of restructuring or within 30 calendar days as of receipt of the request if reported less than 30 calendar days prior to the date of the corporate restructuring event.",TRUE,TRUE,FALSE,None,None,organizations:- Trade RepositoryLegislations:- Implementing Regulation (EU) 2022/1860Dates:- Not specified in the textMonetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A trade repository shall identify the relevant derivatives referred to in paragraph 2 of Article 2 of Implementing Regulation (EU) 2022/1860 at the time of the corporate restructuring event, where the entity is identified with the old identifier in any of the fields, and replace that identifier with the new LEI. Where a corporate restructuring event relates to an update of the LEI for fields other than ‘Counterparty 1’ or ‘Counterparty 2’, the trade repository shall perform such an update of the relevant derivatives only following a timely confirmation by counterparty 1 or the entity responsible for reporting.",TRUE,TRUE,None,None,None,organizations:- Trade RepositoryLegislations:- Implementing Regulation (EU) 2022/1860Dates:- Not specified in the textMonetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A trade repository shall carry out the following actions: broadcast the following information at the earliest possibility, and no later than 5 working days after the complete notification is received, to all the other trade repositories and to the reporting counterparties, report submitting entities, entities responsible for reporting involved in the derivatives contracts concerned by the LEI update, and to third parties which have been granted access to information under Article 78(7) of Regulation (EU) No 648/2012, as applicable:",TRUE,TRUE,FALSE,None,None,organizations:- Trade RepositoryLegislations:- Regulation (EU) No 648/2012Dates:- Not specified in the textMonetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+If a counterparty notifies ESMA and the relevant NCAs that it is above the clearing thresholds or that it has not calculated its positions against the clearing thresholds, it will become subject to the clearing obligation and will have to start clearing OTC derivative contracts (pertaining to a class of OTC derivatives which is subject to the clearing obligation) entered into or novated more than 4 months following such notification (i.e. entered into or novated on the first day following the end of this 4-month period or afterwards, for instance; for a notification on 15 January, the trades entered into or novated on 16 May or afterwards). If during this 4-month period, the counterparty demonstrates in accordance with Article 4a(2) and Article10(2) of EMIR for FCs and NFCs respectively to the relevant NCAs that it is below the clearing thresholds and notifies ESMA and the relevant NCAs accordingly, it will no longer be subject to the clearing obligation and will not have to start clearing at the end of the 4-month period.",TRUE,FALSE,FALSE,None,FALSE,organizations:- ESMA (European Securities and Markets Authority)- NCAs (National Competent Authorities)Legislations:- EMIR (European Market Infrastructure Regulation)Dates:- Not specified in the textMonetary Values:- Not specified in the textStatistics:- Not specified in the text
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+find the average of the total amount across the 12 months by dividing that number by 12 for each asset class;",None,None,None,FALSE,FALSE,organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Not specified in the textMonetary Values:- Total amount for each asset classStatistics:- Calculating the average by dividing the total amount by 12 for each asset class
+ChatGPT3.5,"A is an NFC
+• B is an NFC in the same group as A, and B is the entity specialised in dealing derivatives with
+entities outside the group
+• A and B enter into an OTC derivative transaction, with a notional value of 100, e.g. A buys 100
+and B sells 100
+• B enters into an opposite transaction with an entity outside the group (C), i.e. B buys 100 from
+C.",TRUE,None,None,TRUE,FALSE,"organizations: - A - B- CLegislations: - Not specified in the textDates: - Not specified in the textMonetary Values: - Notional value of OTC derivative transaction: 100Statistics: - An OTC derivative transaction with a notional value of 100 between A and B, where B then enters into a separate transaction with C."
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+300, if the transaction between A and B does not satisfy the hedging conditions with respect to A, i.e. 100 for the buy transaction between A and B, 100 for the sell transaction between B and A, and 100 for the buy transaction between B and C.",TRUE,None,None,TRUE,FALSE,organizations: - A- B- CLegislations: - Not specified in the textDates: - Not specified in the textMonetary Values: - 300 (split into 100 for each transaction described)Statistics: - The text describes three transactions with specific monetary values for each.
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ if a counterparty is performing calculations on 1 November 2019 and encounters difficulties with calculating its positions using the figures from 1 November 2018 to 31 October 2019, it can use a 12-month period ending on the previous month: from 1 October 2018 to 30 September 2019.",None,None,FALSE,None,FALSE,"organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Not specified in the textMonetary Values:- Not specified in the textStatistics:- Describes the allowance for a counterparty to use a 12-month period for calculating positions from October 2018 to September 2019, instead of November 2018 to October 2019, on 1st November 2019."
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ESMA is of the view that in the case of AIFs the exemption for intragroup transactions should be construed narrowly, and that in most cases it will not be possible for the exemption to be used. An AIF can only make use of the exemption for intragroup transactions if it has been established to form part of the same group (as defined in Article 2(16) of EMIR) as the counterparty to the OTC derivative contract and if it fulfils all the criteria for intragroup transactions set out in Article 3(2)(a)(i)(iv), (b), or (d) of EMIR.",TRUE,FALSE,None,None,FALSE,organizations:- ESMA (European Securities and Markets Authority)- AIFs (Alternative Investment Funds)Legislations:- EMIR (European Market Infrastructure Regulation)Dates:- Not specified in the textMonetary Values:- Not specified in the textStatistics:- ESMA's view on the narrow interpretation of the intragroup transaction exemption specifically relating to AIFs and the criteria they must meet to make use of the exemption.
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+15 December 2014 (yearly requirement) if the NFC- is still a NFC- on 15 December 2013, and if the number of its outstanding contracts with Counterparty X was below 100 at all time during the previous reconciliation period, i.e. from 15 September 2013 to 15 December
+2013. This should be assessed on the reconciliation date, i.e. on 15 December 2013.",FALSE,None,TRUE,None,TRUE,"organizations:- Not specified in the textLegislations:- Not specified in the textDates:- 15 December 2014Monetary Values:- Not specified in the textStatistics:- Refers to the yearly requirement for an entity identified as NFC- based on specific criteria related to outstanding contracts during a specific period up to December 15, 2013."
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+the position as defined in Article 26 of the RTS on CCP require- ments, respecting at least the confidence intervals of 99,5% for OTC derivatives and 99% for other financial instruments.",None,TRUE,None,None,TRUE,"organizations:- Not specified in the textLegislations:- RTS on CCP requirementsDates:- Not specified in the textMonetary Values:- Not specified in the textStatistics:- The position, defined in Article 26 of the RTS on CCP requirements, should adhere to specific confidence intervals for OTC derivatives (99.5%) and other financial instruments (99%)."
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Article45(2)ofCommissionDelegatedReg- ulation (EU) No 153/2013 states that “not less than 95% of such cash” shall be deposited through “arrangements that ensure the collateralisation of the cash with highly liquid financial instru- ments...”",None,TRUE,None,None,TRUE,organizations:- Not specified in the textLegislations:- Commission Delegated Regulation (EU) No 153/2013Dates:- Not specified in the textMonetary Values:- Not specified in the textStatistics:- Article 45(2) of the regulation emphasizes that at least 95% of the cash shall be deposited through arrangements ensuring collateralization with highly liquid financial instruments.
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Article 45(2) of Commission Delegated Regulation (EU) No 153/2013 (RTS on CCP require- ments) provides that where cash is deposited other than with a central bank in accordance with Article 47(4), and is maintained overnight, then not less than 95% of such cash must be depos- ited through arrangements",None,TRUE,None,None,TRUE,"organizations:- Not specified in the textLegislations:- Commission Delegated Regulation (EU) No 153/2013 (RTS on CCP requirements)Dates:- Not specified in the textMonetary Values:- Not specified in the textStatistics:- Article 45(2) emphasizes that at least 95% of the cash deposited, when not with a central bank and maintained overnight, must be through specific arrangements."
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The size of the additional contribution is limited to a pre-defined monetary amount (e.g. an as- sessment of up to EUR XX million per clearing member)?",None,None,None,TRUE,FALSE,organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Not specified in the textMonetary Values:- Up to EUR XX million per clearing memberStatistics:- Defines a limit on the size of the additional contribution for each clearing member to a pre-defined monetary amount.
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The variation margin reduction is limited to a pre-defined monetary amount (e.g. an assess- ment of up to EUR XX million per clearing member)?",None,None,None,TRUE,FALSE,"organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Not specified in the textMonetary Values:- Up to EUR XX million per clearing memberStatistics:- Specifies a limit on the variation margin reduction for each clearing member, restricted to a pre-defined monetary amount."
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract drops so that the VM requirement of A is reduced to 9.8 million. However, the MTA is set at 500,000.",FALSE,None,None,TRUE,FALSE,"organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Not specified in the textMonetary Values:- Valuation drops to 9.8 million- MTA is set at 500,000Statistics:- Describes the reduction in the VM requirement for party A to 9.8 million, with the MTA set at 500,000."
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract drops further and A needs to return additionally 1.8 million VM back to B. The total amount of VM returned by A is 2 million (0.2 million + 1.8 million).",FALSE,None,None,TRUE,FALSE,"organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Not specified in the textMonetary Values:- A needs to return 1.8 million VM back to B- Total VM returned by A is 2 million (0.2 million + 1.8 million)Statistics:- Describes the scenario where A returns an additional 1.8 million VM to B, resulting in a total of 2 million VM returned."
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ Due to valuation of the contract15 B has to provide 10 million as VM to A.",FALSE,None,None,TRUE,FALSE,organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Not specified in the textMonetary Values:- B has to provide 10 million as VM to AStatistics:- Describes the scenario where B has to provide 10 million as VM to A due to the valuation of the contract.
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract rises and A receives 5 million VM from B.",FALSE,None,None,TRUE,FALSE,organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Not specified in the textMonetary Values:- A receives 5 million VM from BStatistics:- Indicates that A receives 5 million VM from B due to the rise in the valuation of the contract.
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract drops again and turns negative for A. Therefore A has to provide 20 million VM to B.",FALSE,None,None,TRUE,FALSE,"organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Not specified in the textMonetary Values:- A has to provide 20 million VM to BStatistics:- Describes the scenario where the valuation drops, causing A to provide 20 million VM to B as the contract turns negative for A."
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A partially sells the contract and receives 5 million VM back from B.",FALSE,None,None,TRUE,TRUE,organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Not specified in the textMonetary Values:- A receives 5 million VM back from BStatistics:- Describes the scenario where A partially sells the contract and receives 5 million VM back from B.
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Counterparty 1 concludes a new trade 789 with the Counterparty 2 with quantity 5000. The trade in compressed into the existing position ABCD on the same day. Hence, the trade is reported by the Counterparty 1 on the following day with Action type “Position component” (“P”).",TRUE,None,FALSE,TRUE,FALSE,"organizations:- Counterparty 1- Counterparty 2Legislations:- Not specified in the textDates:- The new trade 789 is reported on the following day after being compressed into existing position ABCD on the same dayMonetary Values:- Quantity of the trade with Counterparty 2: 5000Statistics:- Describes the process where Counterparty 1 concludes a new trade with Counterparty 2, which is then reported the next day as a ""Position component"" after being compressed into an existing position."
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Upon compression, trade 789 is included into the position ABCD. This is reported on the following day as modification of the position by increase in the quantity from 10 000 to 15 000.
+",None,None,FALSE,FALSE,TRUE,"organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Reported on the following day after compressionMonetary Values:- Increase in quantity from 10,000 to 15,000Statistics:- Describes the reporting of the modification of position ABCD the day after compression, reflecting an increase in quantity from 10,000 to 15,000 after including trade 789."
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Another trade between the counterparties with quantity 7.000 takes place on 28.08.2015 and is compressed into the existing position. Counterparty reports the conclusion and compression of the trade using the Action type “Position component”.
+",FALSE,None,TRUE,FALSE,FALSE,"organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Trade takes place on 28.08.2015Monetary Values:- Quantity of the trade: 7,000Statistics:- Describes a trade between counterparties on 28.08.2015, compressed into an existing position and reported by Counterparty with the Action type ""Position component""."
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The position is modified by increase in the quantity from 15 000 to 22 000 28.08.2015. The modification is reported on the following day.",None,None,TRUE,FALSE,TRUE,"organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Modification reported on the following day, 29.08.2015Monetary Values:- Increase in quantity from 15,000 to 22,000 on 28.08.2015Statistics:- Describes the modification of the position with an increase in quantity from 15,000 to 22,000 on 28.08.2015, reported the next day."
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+On 29.08.2015 the total of 22.000 quantity is sold. The new transaction is also netted into the position on the same day. Accordingly, the counterparty reports the transaction with Action type “Position component” (“P) and indicating it is a “Sell”.",FALSE,None,TRUE,FALSE,TRUE,"organizations:- Not specified in the textLegislations:- Not specified in the textDates:- Transaction occurs on 29.08.2015Monetary Values:- Quantity of 22,000 is soldStatistics:- Describes the action where a total quantity of 22,000 is sold on 29.08.2015, being netted into the position on the same day, and reported with ""Position component"" action type indicating a ""Sell""."
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+No new trades are concluded on 30-31.09.2015. Given that the position has not been terminated, Counterparty submits only the Valuation reports, with valuation and collateral amounts equal to zero.
+",FALSE,None,TRUE,FALSE,TRUE,"organizations:- Not specified in the textLegislations:- Not specified in the textDates:- No trades concluded on 30-31.09.2015Monetary Values:- Valuation and collateral amounts equal to zeroStatistics:- Indicates that no new trades are concluded on 30-31.09.2015, with Counterparty submitting only Valuation reports reflecting zero valuation and collateral amounts."
+ChatGPT3.5,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ On 01.09.2015 a new trade with quantity 300 takes place between the same counterparties and is compressed into the previous position.",FALSE,None,TRUE,FALSE,TRUE,organizations:- Not specified in the textLegislations:- Not specified in the textDates:- New trade takes place on 01.09.2015Monetary Values:- Quantity of the new trade: 300Statistics:- Describes a new trade with a quantity of 300 occurring on 01.09.2015 between the same counterparties and being compressed into the previous position.
+ChatGPT3.5,Overall,0.6939,0.9184,0.8163,0.8571,0.6735,0.7918367347
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsRegulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”) entered into force on 16 August 2012.",TRUE,TRUE,TRUE,None,None,"- **Organizations:**
+  - European Parliament
+  - Council of the European Union
+
+- **Legislations:**
+  - Regulation (EU) No 648/2012 (EMIR)
+
+- **Dates:**
+  - 4 July 2012
+  - 16 August 2012
+
+- **Monetary Values:**
+  - None listed
+
+- **Statistics:**
+  - None listed"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsMost of the obligations under EMIR needed to be specified further via regulatory technical standards and they will take effect following the entry into force of the technical standards. ",None,FALSE,None,None,None,"
+- **Organizations**: None mentioned
+- **Legislations**: EMIR
+- **Dates**: None mentioned
+- **Monetary Values**: None mentioned
+- **Statistics**: None mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsOn 19 December 2012 the European Commission adopted without modifications the regulatory technical standards developed by ESMA. ",TRUE,FALSE,TRUE,None,None,"- **Organizations**:
+  - European Commission
+  - ESMA (European Securities and Markets Authority)
+
+- **Legislations**:
+  - Regulatory technical standards
+
+- **Dates**:
+  - 19 December 2012
+
+- **Monetary Values**:
+  - None mentioned
+
+- **Statistics**:
+  - None mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsThese technical standards were published in the Official Journal on 23 February 2013 and en- tered into force on 15 March 2013.",None,None,TRUE,None,None,"- **Organizations:** None listed
+- **Legislations:** None listed
+- **Dates:**
+  - 23 February 2013
+  - 15 March 2013
+- **Monetary Values:** None listed
+- **Statistics:** None listed"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”);",TRUE,TRUE,TRUE,None,None,"  - European Parliament
+  - Council of the European Union
+
+- **Legislations**:
+  - Regulation (EU) No 648/2012
+  - EMIR (European Market Infrastructure Regulation)
+
+- **Dates**:
+  - 4 July 2012
+
+- **Monetary Values**:
+  - None mentioned in the provided text.
+
+- **Statistics**:
+  - None mentioned in the provided text."
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Implementing Regulation (EU) No 1247/2012 of 19 December 2012 laying down implementing technical standards with regard to the format and fre- quency of trade reports to trade repositories according to Regulation (EU) No 648/2012;",TRUE,TRUE,TRUE,None,None,"- **Organizations**:
+  - European Union (EU)
+
+- **Legislations**:
+  - Commission Implementing Regulation (EU) No 1247/2012
+  - Regulation (EU) No 648/2012
+
+- **Dates**:
+  - 19 December 2012
+
+- **Monetary Values**:
+  - None mentioned
+
+- **Statistics**:
+  - None mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Implementing Regulation (EU) No 1248/2012 of 19 December 2012 laying down implementing technical standards with regard to the format of appli- cations for registration of trade repositories according to Regulation (EU) No 648/2012;",FALSE,TRUE,TRUE,None,None,"Here are the specific details from the text:
+
+- **Organizations**:
+  - European Union (EU)
+
+- **Legislations**:
+  - Commission Implementing Regulation (EU) No 1248/2012
+  - Regulation (EU) No 648/2012
+
+- **Dates**:
+  - 19 December 2012
+
+- **Monetary Values**:
+  - None mentioned
+
+- **Statistics**:
+  - None mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Implementing Regulation (EU) No 1249/2012 of 19 December 2012 laying down implementing technical standards with regard to the format of the rec- ords to be maintained by central counterparties according to Regulation (EU) No 648/2012;",FALSE,TRUE,TRUE,None,None,"Here are the specific details from the text:
+
+- **Organizations**:
+  - European Union (EU)
+  - Central Counterparties
+
+- **Legislations**:
+  - Commission Implementing Regulation (EU) No 1249/2012
+  - Regulation (EU) No 648/2012
+
+- **Dates**:
+  - 19 December 2012
+
+- **Monetary Values**:
+  - None listed in the provided text.
+
+- **Statistics**:
+  - None listed in the provided text."
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 148/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on the minimum details of the data to be reported to trade repositories;",FALSE,TRUE,TRUE,None,None,"- **Organizations**:
+  - European Commission
+
+- **Legislations**:
+  - Commission Delegated Regulation (EU) No 148/2013
+  - Regulation (EU) No 648/2012
+
+- **Dates**:
+  - 19 December 2012
+
+- **Monetary Values**:
+  - None mentioned
+
+- **Statistics**:
+  - None mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 149/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on indirect clearing arrangements, the clearing obligation, the public register, access to a trading venue, non-financial counterparties, and risk mitigation tech- niques for OTC derivatives contracts not cleared by a CCP;",FALSE,TRUE,TRUE,None,None,"Here are the specific details from the text:
+
+- **Organizations:**
+  - European Commission
+
+- **Legislations:**
+  - Commission Delegated Regulation (EU) No 149/2013
+  - Regulation (EU) No 648/2012
+
+- **Dates:**
+  - 19 December 2012
+
+- **Monetary Values:**
+  - None mentioned
+
+- **Statistics:**
+  - None mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 150/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards specifying the details of the application for registration as a trade repository;",FALSE,TRUE,TRUE,None,None,"- **Organizations:**
+  - European Commission
+
+- **Legislations:**
+  - Commission Delegated Regulation (EU) No 150/2013
+  - Regulation (EU) No 648/2012
+
+- **Dates:**
+  - 19 December 2012
+
+- **Monetary Values:**
+  - None mentioned
+
+- **Statistics:**
+  - None mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 151/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards specifying the data to be published and made available by trade repositories and operational standards for aggregating, comparing and accessing the data;",FALSE,TRUE,TRUE,None,None,"- **Organizations**:
+  - European Commission
+
+- **Legislations**:
+  - Commission Delegated Regulation (EU) No 151/2013
+  - Regulation (EU) No 648/2012
+
+- **Dates**:
+  - 19 December 2012
+
+- **Monetary Values**:
+  - None mentioned
+
+- **Statistics**:
+  - None mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 152/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on capital requirements for central counterparties;",TRUE,TRUE,TRUE,None,None,"- **Organizations**:
+  - European Union (EU)
+
+- **Legislations**:
+  - Commission Delegated Regulation (EU) No 152/2013
+  - Regulation (EU) No 648/2012
+
+- **Dates**:
+  - 19 December 2012
+
+- **Monetary Values**:
+  - None mentioned
+
+- **Statistics**:
+  - None mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 153/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on requirements for central counterparties;",FALSE,TRUE,TRUE,None,None,"Here are the specific details from the text:
+
+- **Organizations**:
+  - European Commission
+
+- **Legislations**:
+  - Commission Delegated Regulation (EU) No 153/2013
+  - Regulation (EU) No 648/2012
+
+- **Dates**:
+  - 19 December 2012
+
+- **Monetary Values**:
+  - None mentioned
+
+- **Statistics**:
+  - None mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 2017/2155 of 22 September 2017 amending Delegated Regulation (EU) No 149/2013 with regards to regulatory tech- nical standards on indirect clearing arrangements.",FALSE,TRUE,TRUE,None,None,"- **Organizations**:
+  - European Commission
+
+- **Legislations**:
+  - Commission Delegated Regulation (EU) No 2017/2155
+  - Delegated Regulation (EU) No 149/2013
+
+- **Dates**:
+  - 22 September 2017
+
+- **Monetary Values**:
+  - None mentioned
+
+- **Statistics**:
+  - None mentioned
+matthewtavares@aula"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+- The derivative is concluded on 1 June 2018;
+- notional of the contract: 1M€;
+- maturity date of the contract: 31 December 2018;
+- the swap is physically settled;
+- Bank A sells EUR and gets GBP for the near leg (and delivers GBP and receives EUR for
+the far leg);
+- the exchange rate of the near leg is 0.88 EUR/GBP, while the exchange rate of the far leg
+is 0.865 EUR/GBP;
+- the two settlement dates are 01/08/2018 and 02/01/2019.",TRUE,None,TRUE,TRUE,TRUE,"- **Organizations**: Bank A
+- **Dates**:
+  - 1 June 2018
+  - 31 December 2018
+  - 01/08/2018
+  - 02/01/2019
+- **Monetary Values**:
+  - 1M€ (1 million euros)
+  - Exchange rate of the near leg: 0.88 EUR/GBP
+  - Exchange rate of the far leg: 0.865 EUR/GBP"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+When can counterparties start notifying the national competent authorities (NCAs) of their intention to apply the reporting exemption in accordance with Article 9(1) EMIR, as amended by Regulation 2019/834?",TRUE,TRUE,None,None,None,"
+- **Organizations**:
+  - National Competent Authorities (NCAs)
+
+- **Legislations**:
+  - Article 9(1) EMIR
+  - Regulation 2019/834
+
+- **Dates**, **Monetary Values**, and **Statistics**: None explicitly mentioned in the given text."
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+On which day does the three-month period referred to in Article 9(1) EMIR, as amended by Regu- lation 2019/834, start?
+",TRUE,TRUE,None,None,None,"- **Organizations:**
+  - None explicitly mentioned.
+
+- **Legislations:**
+  - Article 9(1) EMIR
+  - Regulation 2019/834
+
+- **Dates:**
+  - No specific dates mentioned.
+
+- **Monetary Values:**
+  - None mentioned.
+
+- **Statistics:**
+  - None mentioned."
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+From and until when is the reporting exemption valid in accordance with Article 9(1) EMIR, as amended by Regulation 2019/834?
+",FALSE,TRUE,None,None,None,"Based on the text provided, here are the specific details requested:
+
+- **Organizations:**
+  - EMIR
+
+- **Legislations:**
+  - Article 9(1) EMIR
+  - Regulation 2019/834
+
+- **Dates, Monetary Values, and Statistics:**
+  - No specific dates, monetary values, or statistics are provided in the text.
+
+To find out the duration of the reporting exemption, you would need to refer directly to the legislations mentioned (Article 9(1) EMIR, as amended by Regulation 2019/834)."
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The FC belongs to both a group of undertakings referred to in Article 3(1) or Article 80(7) and (8) of Directive 2006/48/EC (CRD), and another group referred to in Articles 1 and 2 of Directive 83/349/EEC, and",FALSE,TRUE,None,None,None,"Here are the specific details you requested from the given text:
+
+- **Organizations**: Not explicitly mentioned in the provided text.
+- **Legislations**:
+  - Directive 2006/48/EC (CRD)
+  - Directive 83/349/EEC
+- **Dates**: Not explicitly mentioned in the provided text.
+- **Monetary Values**: Not explicitly mentioned in the provided text.
+- **Statistics**: Not explicitly mentioned in the provided text."
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+It could be challenging for a counterparty performing calculations a few days after the end of the previous month to calculate and use the month-end position of that month. For that reason, the counterparty could calculate with the 12-month period that started a month earlier and ended with the previous month- end. E.g. if a counterparty is performing calculations on 1 November 2019 and encounters difficulties with calculating its positions using the figures from 1 November 2018 to 31 October 2019, it can use a 12-month period ending on the previous month: from 1 October 2018 to 30 September 2019.",None,None,TRUE,None,None,"Here are the specific details from the text:
+
+- **Dates**:
+  - 1 November 2019
+  - 1 November 2018
+  - 31 October 2019
+  - 1 October 2018
+  - 30 September 2019"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A trade repository to which a request under Article 8 of Implementing Regulation (EU) 2022/1860 is addressed shall identify the outstanding derivatives referred to in paragraph 2 of Article 2 of Implementing Regulation (EU) 2022/1860 at the time of the corporate restructuring event, where the entity is reported with the identifier used before the corporate restructuring event in the field ‘Counterparty 1’ or ‘Counterparty 2’, as informed in the relevant request. It shall replace the old identifier with the new Legal Entity Identifier (‘LEI’) in the reports relating to all those derivatives at the time of the event referred to in Article 8 of Implementing Regulation (EU) 2022/1860 pertaining to that counterparty. A trade repository shall perform the procedure on the update of the identifier at the latest on the day of restructuring or within 30 calendar days as of receipt of the request if reported less than 30 calendar days prior to the date of the corporate restructuring event.",TRUE,TRUE,TRUE,None,None,"Here are the specific details from the text:
+
+- **Organizations**:
+  - Trade repository
+
+- **Legislations**:
+  - Article 8 of Implementing Regulation (EU) 2022/1860
+  - Article 2 of Implementing Regulation (EU) 2022/1860
+
+- **Dates**:
+  - The day of restructuring
+  - Within 30 calendar days as of receipt of the request
+  - Less than 30 calendar days prior to the date of the corporate restructuring event
+
+- **Monetary Values**:
+  - None mentioned
+
+- **Statistics**:
+  - None mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A trade repository shall identify the relevant derivatives referred to in paragraph 2 of Article 2 of Implementing Regulation (EU) 2022/1860 at the time of the corporate restructuring event, where the entity is identified with the old identifier in any of the fields, and replace that identifier with the new LEI. Where a corporate restructuring event relates to an update of the LEI for fields other than ‘Counterparty 1’ or ‘Counterparty 2’, the trade repository shall perform such an update of the relevant derivatives only following a timely confirmation by counterparty 1 or the entity responsible for reporting.",TRUE,TRUE,None,None,None,"Here are the specific details from the text:
+
+- **Organizations**:
+  - Trade repository
+  - Counterparty 1
+  - Entity responsible for reporting
+
+- **Legislations**:
+  - Implementing Regulation (EU) 2022/1860
+
+- **Dates**:
+  - No specific dates mentioned
+
+- **Monetary Values**:
+  - No monetary values mentioned
+
+- **Statistics**:
+  - No statistics mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A trade repository shall carry out the following actions: broadcast the following information at the earliest possibility, and no later than 5 working days after the complete notification is received, to all the other trade repositories and to the reporting counterparties, report submitting entities, entities responsible for reporting involved in the derivatives contracts concerned by the LEI update, and to third parties which have been granted access to information under Article 78(7) of Regulation (EU) No 648/2012, as applicable:",TRUE,TRUE,TRUE,None,None,"Based on the provided text, here are the specific details you requested:
+
+- **Organizations:**
+  - Trade repository
+  - Reporting counterparties
+  - Report submitting entities
+  - Entities responsible for reporting
+  - Third parties
+
+- **Legislations:**
+  - Article 78(7) of Regulation (EU) No 648/2012
+
+- **Dates:**
+  - 5 working days (deadline for broadcasting information)
+
+- **Monetary Values:**
+  - None mentioned
+
+- **Statistics:**
+  - None mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+If a counterparty notifies ESMA and the relevant NCAs that it is above the clearing thresholds or that it has not calculated its positions against the clearing thresholds, it will become subject to the clearing obligation and will have to start clearing OTC derivative contracts (pertaining to a class of OTC derivatives which is subject to the clearing obligation) entered into or novated more than 4 months following such notification (i.e. entered into or novated on the first day following the end of this 4-month period or afterwards, for instance; for a notification on 15 January, the trades entered into or novated on 16 May or afterwards). If during this 4-month period, the counterparty demonstrates in accordance with Article 4a(2) and Article10(2) of EMIR for FCs and NFCs respectively to the relevant NCAs that it is below the clearing thresholds and notifies ESMA and the relevant NCAs accordingly, it will no longer be subject to the clearing obligation and will not have to start clearing at the end of the 4-month period.",TRUE,TRUE,TRUE,None,None,"- **Organizations:**
+  - ESMA (European Securities and Markets Authority)
+  - NCAs (National Competent Authorities)
+
+- **Legislations:**
+  - EMIR (European Market Infrastructure Regulation)
+  - Article 4a(2) of EMIR
+  - Article 10(2) of EMIR
+
+- **Dates:**
+  - Notification date example: 15 January
+  - Start clearing date for the example: 16 May
+
+- **Monetary Values:** None listed in the text.
+
+- **Statistics:** None listed in the text."
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+find the average of the total amount across the 12 months by dividing that number by 12 for each asset class;",None,None,FALSE,None,None,"Sure, please provide the text you'd like me to analyze."
+Mistral-8x7B,"A is an NFC
+• B is an NFC in the same group as A, and B is the entity specialised in dealing derivatives with
+entities outside the group
+• A and B enter into an OTC derivative transaction, with a notional value of 100, e.g. A buys 100
+and B sells 100
+• B enters into an opposite transaction with an entity outside the group (C), i.e. B buys 100 from
+C.",TRUE,None,None,TRUE,None,"- **Organizations**:
+  - A
+  - B
+  - C
+
+- **Legislations**:
+  - None mentioned
+
+- **Dates**:
+  - None mentioned
+
+- **Monetary Values**:
+  - Notional value of 100
+
+- **Statistics**:
+  - None mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+300, if the transaction between A and B does not satisfy the hedging conditions with respect to A, i.e. 100 for the buy transaction between A and B, 100 for the sell transaction between B and A, and 100 for the buy transaction between B and C.",TRUE,None,None,TRUE,FALSE,"Here are the specific details from the text:
+
+- **Organizations:**
+  - A
+  - B
+  - C
+
+- **Legislations:** None mentioned
+
+- **Dates:** None mentioned
+
+- **Monetary Values:**
+  - 100 (for the buy transaction between A and B)
+  - 100 (for the sell transaction between B and A)
+  - 100 (for the buy transaction between B and C)
+
+- **Statistics:**
+  - 300 (total value if the transaction between A and B does not satisfy the hedging conditions)"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ if a counterparty is performing calculations on 1 November 2019 and encounters difficulties with calculating its positions using the figures from 1 November 2018 to 31 October 2019, it can use a 12-month period ending on the previous month: from 1 October 2018 to 30 September 2019.",None,None,TRUE,None,None,"Based on the provided text, here are the specific details you requested:
+
+- **Organizations:** None mentioned
+- **Legislations:** None mentioned
+- **Dates:**
+  - 1 November 2019
+  - 1 November 2018
+  - 31 October 2019
+  - 1 October 2018
+  - 30 September 2019
+- **Monetary Values:** None mentioned
+- **Statistics:** None mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ESMA is of the view that in the case of AIFs the exemption for intragroup transactions should be construed narrowly, and that in most cases it will not be possible for the exemption to be used. An AIF can only make use of the exemption for intragroup transactions if it has been established to form part of the same group (as defined in Article 2(16) of EMIR) as the counterparty to the OTC derivative contract and if it fulfils all the criteria for intragroup transactions set out in Article 3(2)(a)(i)(iv), (b), or (d) of EMIR.",TRUE,TRUE,None,None,None,"Here are the specific details from the text:
+
+- **Organizations**:
+  - ESMA
+  - AIFs (Alternative Investment Funds)
+
+- **Legislations**:
+  - EMIR (European Market Infrastructure Regulation)
+
+- **Dates**: None mentioned in the given text.
+
+- **Monetary Values**: None mentioned in the given text.
+
+- **Statistics**: None mentioned in the given text."
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+15 December 2014 (yearly requirement) if the NFC- is still a NFC- on 15 December 2013, and if the number of its outstanding contracts with Counterparty X was below 100 at all time during the previous reconciliation period, i.e. from 15 September 2013 to 15 December
+2013. This should be assessed on the reconciliation date, i.e. on 15 December 2013.",TRUE,None,TRUE,None,TRUE,"Here are the specific details from the text:
+
+- **Organizations**:
+  - NFC (Non-Financial Counterparty)
+  - Counterparty X
+
+- **Legislations**:
+  - None mentioned
+
+- **Dates**:
+  - 15 December 2014
+  - 15 December 2013
+  - 15 September 2013
+
+- **Monetary Values**:
+  - None mentioned
+
+- **Statistics**:
+  - Number of outstanding contracts: below 100"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+the position as defined in Article 26 of the RTS on CCP require- ments, respecting at least the confidence intervals of 99,5% for OTC derivatives and 99% for other financial instruments.",None,TRUE,None,None,TRUE,"
+- **Organizations**: None explicitly mentioned.
+- **Legislations**:
+  - RTS on CCP requirements
+  - Article 26
+- **Dates**: None mentioned.
+- **Monetary Values**: None mentioned.
+- **Statistics**:
+  - Confidence interval of 99.5% for OTC derivatives
+  - Confidence interval of 99% for other financial instruments"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Article45(2)ofCommissionDelegatedReg- ulation (EU) No 153/2013 states that “not less than 95% of such cash” shall be deposited through “arrangements that ensure the collateralisation of the cash with highly liquid financial instru- ments...”",FALSE,TRUE,None,None,TRUE,"- **Organizations**:
+  - European Commission (implied through ""Commission Delegated Regulation"")
+
+- **Legislations**:
+  - Commission Delegated Regulation (EU) No 153/2013
+  - Article 45(2)
+
+- **Dates**:
+  - (No specific dates mentioned)
+
+- **Monetary Values**:
+  - (No specific monetary values mentioned)
+
+- **Statistics**:
+  - 95% (percentage of cash to be deposited)"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Article 45(2) of Commission Delegated Regulation (EU) No 153/2013 (RTS on CCP require- ments) provides that where cash is deposited other than with a central bank in accordance with Article 47(4), and is maintained overnight, then not less than 95% of such cash must be depos- ited through arrangements",None,TRUE,None,None,TRUE,"Here are the specific details from the text:
+
+- **Organizations**: None explicitly mentioned.
+- **Legislations**:
+  - Article 45(2) of Commission Delegated Regulation (EU) No 153/2013
+  - Article 47(4)
+- **Dates**: None mentioned.
+- **Monetary Values**: None mentioned.
+- **Statistics**:
+  - Not less than 95% of cash must be deposited through arrangement."
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The size of the additional contribution is limited to a pre-defined monetary amount (e.g. an as- sessment of up to EUR XX million per clearing member)?",None,None,None,TRUE,None,- **Monetary Values:** EUR XX million
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The variation margin reduction is limited to a pre-defined monetary amount (e.g. an assess- ment of up to EUR XX million per clearing member)?",FALSE,None,None,TRUE,None,"- **Organizations:**
+  - Clearing member
+
+- **Legislations:**
+  - None listed
+
+- **Dates:**
+  - None listed
+
+- **Monetary Values:**
+  - EUR XX million
+
+- **Statistics:**
+  - None listed"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract drops so that the VM requirement of A is reduced to 9.8 million. However, the MTA is set at 500,000.",FALSE,None,None,TRUE,None,"- **Organizations:** None explicitly mentioned
+- **Legislations:** None mentioned
+- **Dates:** None mentioned
+- **Monetary Values:**
+  - 9.8 million
+  - 500,000
+- **Statistics:** None mentioned"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract drops further and A needs to return additionally 1.8 million VM back to B. The total amount of VM returned by A is 2 million (0.2 million + 1.8 million).",FALSE,None,None,TRUE,FALSE,"- **Monetary Values:**
+  - 1.8 million VM
+  - 2 million VM
+  - 0.2 million VM
+
+- **Statistics:**
+  - Total amount of VM returned by A: 2 million VM"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ Due to valuation of the contract15 B has to provide 10 million as VM to A.",TRUE,None,None,TRUE,TRUE,"- **Organizations:**
+  - A
+  - B
+- **Monetary Values:**
+  - 10 million
+- **Statistics:**
+  - Valuation of the contract: 15 B"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract rises and A receives 5 million VM from B.",TRUE,None,None,TRUE,None,"- Organizations: A, B
+- Monetary Values: 5 million VM"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract drops again and turns negative for A. Therefore A has to provide 20 million VM to B.",TRUE,None,None,TRUE,None,"- Organizations: A, B
+- Monetary Values: 20 million VM"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A partially sells the contract and receives 5 million VM back from B.",FALSE,None,None,TRUE,None,"- **Monetary Values:**
+  - 5 million VM"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Counterparty 1 concludes a new trade 789 with the Counterparty 2 with quantity 5000. The trade in compressed into the existing position ABCD on the same day. Hence, the trade is reported by the Counterparty 1 on the following day with Action type “Position component” (“P”).",TRUE,None,TRUE,None,TRUE,"- **Organizations:**
+  - Counterparty 1
+  - Counterparty 2
+
+- **Dates:**
+  - The same day (mentioned but not specified)
+  - The following day (mentioned but not specified)
+
+- **Monetary Values:** None explicitly stated
+
+- **Statistics:**
+  - Trade number: 789
+  - Quantity: 5000
+  - Existing position: ABCD
+  - Action type: Position component (“P”)"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Upon compression, trade 789 is included into the position ABCD. This is reported on the following day as modification of the position by increase in the quantity from 10 000 to 15 000.
+",None,None,TRUE,None,TRUE,"- **Organizations:** ABCD
+- **Dates:** ""the following day""
+- **Statistics:**
+  - Initial quantity: 10,000
+  - Increased quantity: 15,000"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Another trade between the counterparties with quantity 7.000 takes place on 28.08.2015 and is compressed into the existing position. Counterparty reports the conclusion and compression of the trade using the Action type “Position component”.
+",FALSE,None,TRUE,None,TRUE,"- **Organizations**: Not explicitly mentioned
+- **Legislations**: Not mentioned
+- **Dates**: 28.08.2015
+- **Monetary Values**: Not mentioned
+- **Statistics**: Quantity 7.000"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The position is modified by increase in the quantity from 15 000 to 22 000 28.08.2015. The modification is reported on the following day.",None,None,TRUE,None,TRUE,"- **Organizations:** None listed.
+- **Legislations:** None listed.
+- **Dates:**
+  - 28.08.2015
+  - The following day (29.08.2015, inferred)
+- **Monetary Values:** None listed.
+- **Statistics:**
+  - 15,000 (initial quantity)
+  - 22,000 (increased quantity)"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+On 29.08.2015 the total of 22.000 quantity is sold. The new transaction is also netted into the position on the same day. Accordingly, the counterparty reports the transaction with Action type “Position component” (“P) and indicating it is a “Sell”.",FALSE,None,TRUE,None,TRUE,"- **Dates**: 29.08.2015
+- **Statistics**: 22,000 (quantity sold)"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+No new trades are concluded on 30-31.09.2015. Given that the position has not been terminated, Counterparty submits only the Valuation reports, with valuation and collateral amounts equal to zero.
+",FALSE,None,TRUE,FALSE,FALSE,"- **Dates**: 30-31.09.2015
+- **Monetary Values**: valuation and collateral amounts equal to zero
+- **Statistics**: No new trades"
+Mistral-8x7B,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ On 01.09.2015 a new trade with quantity 300 takes place between the same counterparties and is compressed into the previous position.",FALSE,None,TRUE,None,TRUE,"- **Dates**: 01.09.2015
+- **Statistics**: Quantity 300"
+Mistral-8x7B,Overall,0.6122,0.9592,0.9796,0.9796,0.9388,0.893877551
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsRegulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”) entered into force on 16 August 2012.",TRUE,TRUE,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+European Parliament
+Council
+Legislations:
+Regulation (EU) No 648/2012 (EMIR)
+Dates:
+4 July 2012
+16 August 2012
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsMost of the obligations under EMIR needed to be specified further via regulatory technical standards and they will take effect following the entry into force of the technical standards. ",None,TRUE,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+EMIR (Regulation (EU) No 648/2012, mentioned in the context)
+Dates:
+None
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsOn 19 December 2012 the European Commission adopted without modifications the regulatory technical standards developed by ESMA. ",TRUE,FALSE,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+European Commission
+ESMA (European Securities and Markets Authority)
+Legislations:
+None
+Dates:
+19 December 2012
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and StatisticsThese technical standards were published in the Official Journal on 23 February 2013 and en- tered into force on 15 March 2013.",FALSE,None,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+23 February 2013
+15 March 2013
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”);",TRUE,TRUE,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+European Parliament
+Council
+Legislations:
+Regulation (EU) No 648/2012 (EMIR)
+Dates:
+4 July 2012
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Implementing Regulation (EU) No 1247/2012 of 19 December 2012 laying down implementing technical standards with regard to the format and fre- quency of trade reports to trade repositories according to Regulation (EU) No 648/2012;",TRUE,TRUE,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+European Commission
+Legislations:
+Commission Implementing Regulation (EU) No 1247/2012
+Regulation (EU) No 648/2012 (EMIR)
+Dates:
+19 December 2012
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Implementing Regulation (EU) No 1248/2012 of 19 December 2012 laying down implementing technical standards with regard to the format of appli- cations for registration of trade repositories according to Regulation (EU) No 648/2012;",TRUE,TRUE,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+European Commission
+Legislations:
+Commission Implementing Regulation (EU) No 1248/2012
+Regulation (EU) No 648/2012 (EMIR)
+Dates:
+19 December 2012
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Implementing Regulation (EU) No 1249/2012 of 19 December 2012 laying down implementing technical standards with regard to the format of the rec- ords to be maintained by central counterparties according to Regulation (EU) No 648/2012;",TRUE,TRUE,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+European Commission
+Legislations:
+Commission Implementing Regulation (EU) No 1249/2012
+Regulation (EU) No 648/2012 (EMIR)
+Dates:
+19 December 2012
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 148/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on the minimum details of the data to be reported to trade repositories;",TRUE,TRUE,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+European Commission
+Legislations:
+Commission Delegated Regulation (EU) No 148/2013
+Regulation (EU) No 648/2012 (EMIR)
+Dates:
+19 December 2012
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 149/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on indirect clearing arrangements, the clearing obligation, the public register, access to a trading venue, non-financial counterparties, and risk mitigation tech- niques for OTC derivatives contracts not cleared by a CCP;",TRUE,TRUE,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+European Commission
+Legislations:
+Commission Delegated Regulation (EU) No 149/2013
+Regulation (EU) No 648/2012 (EMIR)
+Dates:
+19 December 2012
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 150/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards specifying the details of the application for registration as a trade repository;",TRUE,TRUE,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+European Commission
+Legislations:
+Commission Delegated Regulation (EU) No 150/2013
+Regulation (EU) No 648/2012 (EMIR)
+Dates:
+19 December 2012
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 151/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards specifying the data to be published and made available by trade repositories and operational standards for aggregating, comparing and accessing the data;",TRUE,TRUE,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+European Commission
+Legislations:
+Commission Delegated Regulation (EU) No 151/2013
+Regulation (EU) No 648/2012 (EMIR)
+Dates:
+19 December 2012
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 152/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on capital requirements for central counterparties;",TRUE,TRUE,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+European Commission
+Legislations:
+Commission Delegated Regulation (EU) No 152/2013
+Regulation (EU) No 648/2012 (EMIR)
+Dates:
+19 December 2012
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 153/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on requirements for central counterparties;",TRUE,TRUE,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+European Commission
+Legislations:
+Commission Delegated Regulation (EU) No 153/2013
+Regulation (EU) No 648/2012 (EMIR)
+Dates:
+19 December 2012
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 2017/2155 of 22 September 2017 amending Delegated Regulation (EU) No 149/2013 with regards to regulatory tech- nical standards on indirect clearing arrangements.",TRUE,TRUE,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+European Commission
+Legislations:
+Commission Delegated Regulation (EU) No 2017/2155
+Delegated Regulation (EU) No 149/2013
+Dates:
+22 September 2017
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+- The derivative is concluded on 1 June 2018;
+- notional of the contract: 1M€;
+- maturity date of the contract: 31 December 2018;
+- the swap is physically settled;
+- Bank A sells EUR and gets GBP for the near leg (and delivers GBP and receives EUR for
+the far leg);
+- the exchange rate of the near leg is 0.88 EUR/GBP, while the exchange rate of the far leg
+is 0.865 EUR/GBP;
+- the two settlement dates are 01/08/2018 and 02/01/2019.",TRUE,None,TRUE,TRUE,FALSE,"Here are the requested items from the given text:
+Specific Organizations:
+Bank A
+Legislations:
+None
+Dates:
+1 June 2018
+31 December 2018
+01/08/2018
+02/01/2019
+Monetary Values:
+1M€ (notional of the contract)
+0.88 EUR/GBP (exchange rate of the near leg)
+0.865 EUR/GBP (exchange rate of the far leg)
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+When can counterparties start notifying the national competent authorities (NCAs) of their intention to apply the reporting exemption in accordance with Article 9(1) EMIR, as amended by Regulation 2019/834?",TRUE,TRUE,None,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+National competent authorities (NCAs)
+Legislations:
+Article 9(1) EMIR
+Regulation 2019/834
+Dates:
+None (no specific date mentioned)
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+On which day does the three-month period referred to in Article 9(1) EMIR, as amended by Regu- lation 2019/834, start?
+",FALSE,TRUE,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+Article 9(1) EMIR
+Regulation 2019/834
+Dates:
+None (no specific date mentioned, only a reference to a three-month period)
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+From and until when is the reporting exemption valid in accordance with Article 9(1) EMIR, as amended by Regulation 2019/834?
+",None,TRUE,None,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+Article 9(1) EMIR
+Regulation 2019/834
+Dates:
+From: The date of notification
+Until: Three months after the date of notification (unless the competent authorities disagree)
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The FC belongs to both a group of undertakings referred to in Article 3(1) or Article 80(7) and (8) of Directive 2006/48/EC (CRD), and another group referred to in Articles 1 and 2 of Directive 83/349/EEC, and",FALSE,TRUE,None,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+Directive 2006/48/EC (CRD)
+Directive 83/349/EEC
+Dates:
+None
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+It could be challenging for a counterparty performing calculations a few days after the end of the previous month to calculate and use the month-end position of that month. For that reason, the counterparty could calculate with the 12-month period that started a month earlier and ended with the previous month- end. E.g. if a counterparty is performing calculations on 1 November 2019 and encounters difficulties with calculating its positions using the figures from 1 November 2018 to 31 October 2019, it can use a 12-month period ending on the previous month: from 1 October 2018 to 30 September 2019.",None,None,TRUE,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+1 November 2019
+1 November 2018
+31 October 2019
+1 October 2018
+30 September 2019
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A trade repository to which a request under Article 8 of Implementing Regulation (EU) 2022/1860 is addressed shall identify the outstanding derivatives referred to in paragraph 2 of Article 2 of Implementing Regulation (EU) 2022/1860 at the time of the corporate restructuring event, where the entity is reported with the identifier used before the corporate restructuring event in the field ‘Counterparty 1’ or ‘Counterparty 2’, as informed in the relevant request. It shall replace the old identifier with the new Legal Entity Identifier (‘LEI’) in the reports relating to all those derivatives at the time of the event referred to in Article 8 of Implementing Regulation (EU) 2022/1860 pertaining to that counterparty. A trade repository shall perform the procedure on the update of the identifier at the latest on the day of restructuring or within 30 calendar days as of receipt of the request if reported less than 30 calendar days prior to the date of the corporate restructuring event.",FALSE,TRUE,FALSE,None,FALSE,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+Implementing Regulation (EU) 2022/1860
+Dates:
+None (no specific date mentioned, only timeframes related to the corporate restructuring event)
+Monetary Values:
+None
+Statistics:
+30 calendar days (timeframe for updating the identifier)"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A trade repository shall identify the relevant derivatives referred to in paragraph 2 of Article 2 of Implementing Regulation (EU) 2022/1860 at the time of the corporate restructuring event, where the entity is identified with the old identifier in any of the fields, and replace that identifier with the new LEI. Where a corporate restructuring event relates to an update of the LEI for fields other than ‘Counterparty 1’ or ‘Counterparty 2’, the trade repository shall perform such an update of the relevant derivatives only following a timely confirmation by counterparty 1 or the entity responsible for reporting.",FALSE,TRUE,None,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+Implementing Regulation (EU) 2022/1860
+Dates:
+None
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A trade repository shall carry out the following actions: broadcast the following information at the earliest possibility, and no later than 5 working days after the complete notification is received, to all the other trade repositories and to the reporting counterparties, report submitting entities, entities responsible for reporting involved in the derivatives contracts concerned by the LEI update, and to third parties which have been granted access to information under Article 78(7) of Regulation (EU) No 648/2012, as applicable:",FALSE,TRUE,FALSE,None,FALSE,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+Regulation (EU) No 648/2012
+Dates:
+None (no specific date mentioned, only a timeframe of 5 working days)
+Monetary Values:
+None
+Statistics:
+5 working days (timeframe for broadcasting information)
+78(7) (reference to a specific article in the regulation)"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+If a counterparty notifies ESMA and the relevant NCAs that it is above the clearing thresholds or that it has not calculated its positions against the clearing thresholds, it will become subject to the clearing obligation and will have to start clearing OTC derivative contracts (pertaining to a class of OTC derivatives which is subject to the clearing obligation) entered into or novated more than 4 months following such notification (i.e. entered into or novated on the first day following the end of this 4-month period or afterwards, for instance; for a notification on 15 January, the trades entered into or novated on 16 May or afterwards). If during this 4-month period, the counterparty demonstrates in accordance with Article 4a(2) and Article10(2) of EMIR for FCs and NFCs respectively to the relevant NCAs that it is below the clearing thresholds and notifies ESMA and the relevant NCAs accordingly, it will no longer be subject to the clearing obligation and will not have to start clearing at the end of the 4-month period.",TRUE,TRUE,TRUE,None,FALSE,"Here are the requested items from the given text:
+Specific Organizations:
+ESMA (European Securities and Markets Authority)
+NCAs (National Competent Authorities)
+Legislations:
+EMIR (European Market Infrastructure Regulation)
+Article 4a(2) of EMIR
+Article 10(2) of EMIR
+Dates:
+15 January (example date)
+16 May (example date)
+Monetary Values:
+None
+Statistics:
+4 months (timeframe for clearing obligation)"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+find the average of the total amount across the 12 months by dividing that number by 12 for each asset class;",None,None,FALSE,None,FALSE,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+None
+Monetary Values:
+None
+Statistics:
+12 months (timeframe for calculating average)
+12 (divisor for calculating average)"
+Llama3-7B 0-shot,"A is an NFC
+• B is an NFC in the same group as A, and B is the entity specialised in dealing derivatives with
+entities outside the group
+• A and B enter into an OTC derivative transaction, with a notional value of 100, e.g. A buys 100
+and B sells 100
+• B enters into an opposite transaction with an entity outside the group (C), i.e. B buys 100 from
+C.",FALSE,None,None,TRUE,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+None
+Monetary Values:
+100 (notional value of the OTC derivative transaction)
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+300, if the transaction between A and B does not satisfy the hedging conditions with respect to A, i.e. 100 for the buy transaction between A and B, 100 for the sell transaction between B and A, and 100 for the buy transaction between B and C.",FALSE,None,None,TRUE,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+None
+Monetary Values:
+300
+100 (mentioned three times)
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ if a counterparty is performing calculations on 1 November 2019 and encounters difficulties with calculating its positions using the figures from 1 November 2018 to 31 October 2019, it can use a 12-month period ending on the previous month: from 1 October 2018 to 30 September 2019.",None,None,TRUE,None,FALSE,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+1 November 2019
+1 November 2018
+31 October 2019
+1 October 2018
+30 September 2019
+Monetary Values:
+None
+Statistics:
+12-month period (timeframe for calculations)"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ESMA is of the view that in the case of AIFs the exemption for intragroup transactions should be construed narrowly, and that in most cases it will not be possible for the exemption to be used. An AIF can only make use of the exemption for intragroup transactions if it has been established to form part of the same group (as defined in Article 2(16) of EMIR) as the counterparty to the OTC derivative contract and if it fulfils all the criteria for intragroup transactions set out in Article 3(2)(a)(i)(iv), (b), or (d) of EMIR.",TRUE,TRUE,None,None,None,"Here are the requested items from the given text:
+Specific Organizations:
+ESMA (European Securities and Markets Authority)
+Legislations:
+EMIR (European Market Infrastructure Regulation)
+Article 2(16) of EMIR
+Article 3(2)(a)(i)(iv) of EMIR
+Article 3(2)(b) of EMIR
+Article 3(2)(d) of EMIR
+Dates:
+None
+Monetary Values:
+None
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+15 December 2014 (yearly requirement) if the NFC- is still a NFC- on 15 December 2013, and if the number of its outstanding contracts with Counterparty X was below 100 at all time during the previous reconciliation period, i.e. from 15 September 2013 to 15 December
+2013. This should be assessed on the reconciliation date, i.e. on 15 December 2013.",FALSE,None,TRUE,None,TRUE,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+15 December 2014
+15 December 2013 (twice)
+15 September 2013
+Monetary Values:
+None
+Statistics:
+100 (number of outstanding contracts)"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+the position as defined in Article 26 of the RTS on CCP require- ments, respecting at least the confidence intervals of 99,5% for OTC derivatives and 99% for other financial instruments.",None,TRUE,None,None,TRUE,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+RTS (Regulatory Technical Standards) on CCP requirements
+Article 26 of the RTS on CCP requirements
+Dates:
+None
+Monetary Values:
+None
+Statistics:
+99.5% (confidence interval for OTC derivatives)
+99% (confidence interval for other financial instruments)"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Article45(2)ofCommissionDelegatedReg- ulation (EU) No 153/2013 states that “not less than 95% of such cash” shall be deposited through “arrangements that ensure the collateralisation of the cash with highly liquid financial instru- ments...”",None,TRUE,None,None,TRUE,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+Commission Delegated Regulation (EU) No 153/2013
+Article 45(2) of Commission Delegated Regulation (EU) No 153/2013
+Dates:
+None
+Monetary Values:
+None
+Statistics:
+95% (percentage of cash to be deposited)"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Article 45(2) of Commission Delegated Regulation (EU) No 153/2013 (RTS on CCP require- ments) provides that where cash is deposited other than with a central bank in accordance with Article 47(4), and is maintained overnight, then not less than 95% of such cash must be depos- ited through arrangements",None,TRUE,None,None,TRUE,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+Commission Delegated Regulation (EU) No 153/2013 (RTS on CCP requirements)
+Article 45(2) of Commission Delegated Regulation (EU) No 153/2013
+Article 47(4) of Commission Delegated Regulation (EU) No 153/2013
+Dates:
+None
+Monetary Values:
+None
+Statistics:
+95% (percentage of cash to be deposited)"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The size of the additional contribution is limited to a pre-defined monetary amount (e.g. an as- sessment of up to EUR XX million per clearing member)?",None,None,None,TRUE,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+None
+Monetary Values:
+EUR XX million (pre-defined monetary amount)
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The variation margin reduction is limited to a pre-defined monetary amount (e.g. an assess- ment of up to EUR XX million per clearing member)?",None,None,None,TRUE,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+None
+Monetary Values:
+EUR XX million (pre-defined monetary amount)
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract drops so that the VM requirement of A is reduced to 9.8 million. However, the MTA is set at 500,000.",FALSE,None,None,TRUE,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+None
+Monetary Values:
+9.8 million (VM requirement)
+500,000 (MTA)
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract drops further and A needs to return additionally 1.8 million VM back to B. The total amount of VM returned by A is 2 million (0.2 million + 1.8 million).",FALSE,None,None,TRUE,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+None
+Monetary Values:
+1.8 million (additional VM returned)
+2 million (total VM returned)
+0.2 million (initial VM returned)
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ Due to valuation of the contract15 B has to provide 10 million as VM to A.",FALSE,None,None,TRUE,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+None
+Monetary Values:
+10 million (VM provided by B to A)
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract rises and A receives 5 million VM from B.",FALSE,None,None,TRUE,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+None
+Monetary Values:
+5 million (VM received by A from B)
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract drops again and turns negative for A. Therefore A has to provide 20 million VM to B.",FALSE,None,None,TRUE,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+None
+Monetary Values:
+20 million (VM provided by A to B)
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A partially sells the contract and receives 5 million VM back from B.",FALSE,None,None,TRUE,None,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+None
+Monetary Values:
+5 million (VM received back by A from B)
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Counterparty 1 concludes a new trade 789 with the Counterparty 2 with quantity 5000. The trade in compressed into the existing position ABCD on the same day. Hence, the trade is reported by the Counterparty 1 on the following day with Action type “Position component” (“P”).",TRUE,None,TRUE,FALSE,TRUE,"Here are the requested items from the given text:
+Specific Organizations:
+Counterparty 1
+Counterparty 2
+Legislations:
+None
+Dates:
+None (but mentions ""the same day"" and ""the following day"", without specifying exact dates)
+Monetary Values:
+None
+Statistics:
+5000 (quantity of the new trade)
+789 (trade identifier)
+ABCD (existing position identifier)"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Upon compression, trade 789 is included into the position ABCD. This is reported on the following day as modification of the position by increase in the quantity from 10 000 to 15 000.
+",None,None,TRUE,None,TRUE,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+None (but mentions ""the following day"", without specifying an exact date)
+Monetary Values:
+None
+Statistics:
+10,000 (initial quantity)
+15,000 (increased quantity)
+5,000 (increase in quantity, implied)"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Another trade between the counterparties with quantity 7.000 takes place on 28.08.2015 and is compressed into the existing position. Counterparty reports the conclusion and compression of the trade using the Action type “Position component”.
+",TRUE,None,TRUE,None,TRUE,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+28.08.2015 (trade date)
+Monetary Values:
+None
+Statistics:
+7,000 (trade quantity)"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The position is modified by increase in the quantity from 15 000 to 22 000 28.08.2015. The modification is reported on the following day.",None,None,TRUE,None,TRUE,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+28.08.2015 (modification date)
+""The following day"" (reporting date, exact date not specified)
+Monetary Values:
+None
+Statistics:
+15,000 (initial quantity)
+22,000 (increased quantity)
+7,000 (increase in quantity, implied)"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+On 29.08.2015 the total of 22.000 quantity is sold. The new transaction is also netted into the position on the same day. Accordingly, the counterparty reports the transaction with Action type “Position component” (“P) and indicating it is a “Sell”.",FALSE,None,TRUE,None,TRUE,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+29.08.2015 (transaction date)
+Monetary Values:
+None
+Statistics:
+22,000 (quantity sold)"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+No new trades are concluded on 30-31.09.2015. Given that the position has not been terminated, Counterparty submits only the Valuation reports, with valuation and collateral amounts equal to zero.
+",TRUE,None,TRUE,FALSE,FALSE,"Here are the requested items from the given text:
+Specific Organizations:
+Counterparty
+Legislations:
+None
+Dates:
+30.09.2015
+31.09.2015
+Monetary Values:
+Zero (valuation amount)
+Zero (collateral amount)
+Statistics:
+None"
+Llama3-7B 0-shot,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ On 01.09.2015 a new trade with quantity 300 takes place between the same counterparties and is compressed into the previous position.",FALSE,None,TRUE,None,TRUE,"Here are the requested items from the given text:
+Specific Organizations:
+None
+Legislations:
+None
+Dates:
+01.09.2015 (trade date)
+Monetary Values:
+None
+Statistics:
+300 (trade quantity)"
+Llama3-7B 0-shot,Overall,0.6531,0.9796,0.9388,0.9592,0.8571,0.8775510204
