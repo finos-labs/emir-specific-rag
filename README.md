@@ -44,7 +44,7 @@ The DRR system, which generates reports based on existing regulations (e.g., EMI
 We will follow the following timeline  
 1. Benchmarking existing models and identifying weaknesses: June 30, 2024 
 2. Curation of EMIR regulatory data: July 20, 2024
-3. Fine-tuning a FinGPT model using LoRA: July 31, 2024
+3. Fine-tuning a FinGPT model using LoRA or RAG: July 31, 2024
 4. Deliver a Working Prototype: August 20, 2024
 
 
