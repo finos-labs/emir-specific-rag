@@ -1,0 +1,43 @@
+Questions,Answers,GPT4,GPT4o,GPT3,Mistral,Llama3 1-Shot,Llama3 0-Shot
+GAAP,Generally Accepted Accounting Principles,TRUE,TRUE,TRUE,,,
+GAAS,Generally Accepted Auditing Standards,TRUE,TRUE,TRUE,,,
+GAGAS,Generally Accepted Government Auditing Standards,TRUE,TRUE,TRUE,,,
+CAP,Certified Public Accountant,FALSE,FALSE,FALSE,,,
+AP,Accounts Payable,TRUE,TRUE,TRUE,,,
+AR,Accounts Receivable,TRUE,TRUE,TRUE,,,
+ROI,Return on Investment,TRUE,TRUE,TRUE,,,
+GL,General Ledger,TRUE,TRUE,TRUE,,,
+COGS,Cost of Goods Sold,TRUE,TRUE,TRUE,,,
+NI,Net Income,TRUE,TRUE,TRUE,,,
+CF,Cash Flow,TRUE,TRUE,TRUE,,,
+BS,Balance Sheets,TRUE,TRUE,TRUE,,,
+FASB,Financial Accounting Standards Board,,,,,,
+SAP,Statutory Accounting Practices,,,,,,
+FSLIC,Federal Savings and Loan Insurance Corporation,,,,,,
+FDIC,Federal Deposit Insurance Corporation,,,,,,
+RTC,Resolution Trust Corporation,,,,,,
+Audit,a formal review of a person or company's financial records by professional accountants,,,TRUE,,,
+Financial Statement Audit,"engagement performed by an independent accountant, designed to demonstrate that an organization’s financial statements are prepared in accordance with generally accepted accounting principles (GAAP) or other recognized frameworks",,,TRUE,,,
+Insurance Scores,,,,,,,
+Default Risk,"risk a lender takes that a borrower will not make the required payments on a debt obligation, such as a loan, a bond, or a credit card.",,,,,,
+Reserve Ratio,"portion of reservable liabilities that commercial banks must hold onto, rather than lend out or invest",,,,,,
+Comptroller,a high-level executive that oversees the accounting tasks and financial reporting procedures of organizations,,,,,,
+What are all the Generally Accepted Accounting Principles?,"Principle of Regularity: GAAP-compliant accountants strictly adhere to established rules and regulations.
+Principle of Consistency: Consistent standards are applied throughout the financial reporting process.
+Principle of Sincerity: GAAP-compliant accountants are committed to accuracy and impartiality.
+Principle of Permanence of Methods: Consistent procedures are used in the preparation of all financial reports.
+Principle of Non-Compensation: All aspects of an organization's performance, whether positive or negative, are fully reported with no prospect of debt compensation.
+Principle of Prudence: Speculation does not influence the reporting of financial data.
+Principle of Continuity: Asset valuations assume the organization's operations will continue.
+Principle of Periodicity: Reporting of revenues is divided by standard accounting periods, such as fiscal quarters or fiscal years.
+Principle of Materiality: Financial reports fully disclose the organization's monetary situation.
+Principle of Utmost Good Faith: All involved parties are assumed to be acting honestly.",,,,,,
+What are the two main types of audit testing?,Controls Testing and Substantive Testing,,,,,,
+What is the McCarran-Ferguson Act?,"approved by Congress in 1945, entrusts states with the authority and responsibility for the regulation of the business of insurance.",,,,,,
+Under what 3 conditions does the McCarran Ferguson Act's limited antitrust exemption apply?,"1. The insurer's action pertains to 'the business of insurance'
+2. The action must be regulated by state law
+3. The action must not be designed to boycott, coerce or intimidate.",,,,,,
+What two major segments is the insurance industry divided into?,"1. property/casualty insurance
+2. life/health insurance",,,,,,
+"According to the FDIC, what is a Federal Banking Agency?","the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation",,,,,,
+"Answer concisely. What is the difference between GAAP and SAP in terms of reporting requirements for publicly owned U.S. insurance companies? Specifically, who do they report to under each standard?","Publicly owned U.S. insurance companies, like companies in any other type of business, report to the SEC using GAAP. However, they report to insurance regulators and pay taxes using SAP.",,,,,,
