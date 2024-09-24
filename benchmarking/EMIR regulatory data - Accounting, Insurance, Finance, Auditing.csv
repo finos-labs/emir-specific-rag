@@ -49,6 +49,7 @@ IASB,International Accounting Standard Board,,,,,,
 GFOA,Government Finance Officers Association,,,,,,
 COSO,Committee of Sponsoring Organizations of the Treadway Commission,,,,,,
 OMB,Office of Management and Budget,,,,,,
+,,,,,,,
 Audit,a formal review of a person or company's financial records by professional accountants,,,TRUE,,,
 Financial Statement Audit,"engagement performed by an independent accountant, designed to demonstrate that an organization’s financial statements are prepared in accordance with generally accepted accounting principles (GAAP) or other recognized frameworks",,,TRUE,,,
 Insurance Scores,confidential ratings calculated by insurance companies primarily by using data from your credit history,,,,,,
@@ -79,25 +80,6 @@ Sampling,"the selection and evaluation of less than 100 percent of the populatio
 Transparency,government’s obligation to share information with citizens that is needed to make informed decisions and hold officials accountable for the conduct of the people’s business.,,,,,,
 Uniform Guidance,the authoritative set of rules and requirements for federal awards.,,,,,,
 Unmodified Opinion,"opinion expressed by the auditor when the auditor concludes that the financial statements are presented fairly, in all material respects, in accordance with the applicable financial reporting framework.",,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
 ,,,,,,,
 What are all the Generally Accepted Accounting Principles?,"Principle of Regularity: GAAP-compliant accountants strictly adhere to established rules and regulations.
 Principle of Consistency: Consistent standards are applied throughout the financial reporting process.
@@ -134,3 +116,65 @@ What 3 primary goals does the Affordable Care Act have?,"1. Make affordable heal
 Answer concisely. What is the role of the Community Reinvestment Act?,The CRA requires federally chartered banks to support affordable lending and community development in the communities where they operate.,,,,,,
 "What main three insurance regulations must each state follow? State only the regulations, separated by commas.","Licensing And Capital Requirements, Solvency/Guaranty Funds, Rate Regulation",,,,,,
 How many times are analytical procedures performed and when?,"Analytical procedures are performed three times. First, analytical procedures are performed at the beginning of the audit as part of risk assessment procedures. This helps auditors plan the audit and the procedures they will perform. Analytical procedures are used during the audit to corroborate other audit evidence obtained. Final analytical procedures are used at the end of the audit to assist the auditor when forming an overall conclusion on the financial statements.",,,,,,
+"What are the four objectives of Federal Financial Reporting? State only the objectives, separated by commas.","Budgetary integrity, Operating performance, Stewardship, Systems and Control",,,,,,
+How does Federal Financial Reporting tackle their objective of Budgetary Integrity?,"Federal financial reporting should assist in fulfilling the government’s duty to be publicly
+accountable for monies raised through taxes and other means and for their expenditure in
+accordance with the appropriations laws that establish the government’s budget for a
+particular fiscal year and related laws and regulations. Federal financial reporting should provide information that helps the reader to determine
+• how budgetary resources have been obtained and used and whether their acquisition
+and use were in accordance with the legal authorization,
+• the status of budgetary resources, and
+• how information on the use of budgetary resources relates to information on the costs
+of programs operations and whether information on the status of budgetary resources
+is consistent with other accounting information on assets and liabilities",,,,,,
+How does Federal Financial Reporting tackle their objective of Operating Performance?,"Federal financial reporting should assist report users in evaluating the service efforts, costs, and accomplishments of the reporting entity; the manner in which these efforts and accomplishments have been financed; and the management of the entity’s assets and liabilities. Federal financial reporting should provide information that helps the reader to determine
+• the costs of providing specific programs and activities and the composition of, and
+changes in, these costs;
+• the efforts and accomplishments associated with federal programs and the
+changes over time and in relation to costs; and
+• the efficiency and effectiveness of the government’s management of its assets
+and liabilities.",,,,,,
+How does Federal Financial Reporting tackle their objective of Stewardship?,"Federal financial reporting should assist report users in assessing the impact on the country of the government’s operations and investments for the period and how, as a result, the government’s and the nation’s financial conditions have changed and may change in the future. Federal financial reporting should provide information that helps the reader to determine whether
+• the government’s financial position improved or deteriorated over the period,
+• future budgetary resources will likely be sufficient to sustain public services and to
+meet obligations as they come due, and
+• government operations have contributed to the nation’s current and future well-being",,,,,,
+How does Federal Financial Reporting tackle their objective of Systems and Control?,"Federal financial reporting should assist report users in understanding whether financial management systems and internal accounting and administrative controls are adequate to ensure that • transactions are executed in accordance with budgetary and financial laws and other requirements, consistent with the purpose authorized, and are recorded in accordance with federal accounting standards; • assets are properly safeguarded to deter fraud, waste, and abuse; and • performance measurement information is adequately supported.",,,,,,
+What is SFFAS 1 according to the FASAB? State only the title.,Accounting for Selected Assets and Liabilities,,,,,,
+How do the recommended standards in SFFAS 1 assist users of financial statements? State the two ways in a single sentence.,"The recommended standards in SFFAS 1 assist users of financial statements in assessing the efficiency and effectiveness of the government’s management of its assets and liabilities, and determining whether the government’s financial position improved or deteriorated over the reporting period.",,,,,,
+What is SFFAS 17 according to the FASAB? State only the title.,Accounting for Social Insurance,,,,,,
+What is SFFAS 51 according to the FASAB? State only the title.,Insurance Programs,,,,,,
+What does SFFAS 51 establish? State concisely.,This Statement establishes accounting and financial reporting standards for insurance programs. It provides standards to ensure that insurance programs are adequately defined and report consistent information about the liabilities for losses incurred and claimed as well as expected losses during remaining coverage.,,,,,,
+"How does SFFAS 31 define ""fiduciary activities""? State only the definition.","Federal Government activities that relate to the collection or receipt, and the subsequent management, protection, accounting, investment and disposition of cash or other assets in which non-Federal individuals or entities (“non-Federal parties”) have an ownership interest that the Federal Government must uphold.",,,,,,
+What is SFFAS 47 according to the FASAB? State only the title.,Reporting Entity,,,,,,
+What is the exact date SFFAS 47 was issued? State the only the date.,"December 23, 2014",,,,,,
+What does SFFAS 38 require?,"This standard requires the value of the federal government’s estimated petroleum royalties from the production of federal oil and gas proved reserves to be reported in a schedule of estimated federal oil and gas petroleum royalties. In addition, this standard requires the value of estimated petroleum royalty revenue designated for others to be reported in a schedule of estimated federal oil and gas petroleum royalties to be distributed to others. These schedules are to be presented in required supplementary information (RSI) as part of a discussion of all significant federal oil and gas resources under management by the entity.",,,,,,
+"What does Technical Bulletin 2011-1 clarify, according to the FASAB?","Technical Bulletin 2011-1 clarifies that federal entities should report the value of the federal government's estimated royalties and other revenue from federal natural resources that are (1) under lease, contract or other long-term agreement and (2) reasonably estimable as of the reporting date in required supplementary information (RSI), consistent with the guidance contained in Statement of Federal Financial Accounting Standards 38, Accounting for Federal Oil and Gas Resources.",,,,,,
+"According to the FDIC, how many times is a Corporation audited?",The Corporation shall be audited at least once in every three years.,,,,,,
+"According to the FDIC, a copy of each report of audit is furnished to who? State only the entities, separated by commas.","President, Secretary of the Treasury, Corporation",,,,,,
+What is the role of the GAO?,"The GAO examines how taxpayer dollars are spent and provides Congress and federal agencies with objective, reliable information to help the government save money and work more efficiently.",,,,,,
+What does Uniform Guidance accomplish?,"Uniform Guidance removes previous guidance that is conflicting and establishes standard language, directs the focus of audits on areas that have been identified as at risk for waste, fraud and abuse, lays the groundwork for Federal agencies to standardize the processing of data, and clarifies and updates cost reporting guidelines for award recipients",,,,,,
+What is the role of Notes to the Financial Statements?,"The notes to the financial statements should communicate information essential for fair presentation of the financial statements that is not displayed on the face of the financial statements. As such, notes are an integral part of the basic financial statements. For governmental units, the notes should focus on the primary government, specifically, its governmental activities, business-type activities, major funds, and the total nonmajor funds. Additional disclosures may be required to explain a particular financial position that the unit took when reporting. The notes can include both descriptive and quantitative information to assist readers in understanding the financial statements.",,,,,,
+"What are indicators of a going concern, separated by commas?","Indicators of a going concern include default on bonds, disposal of substantial assets, legal proceedings, or noncompliance with statutory requirements.",,,,,,
+What does SFFAS 54 do? State concisely.,This Statement revises the financial reporting standards for federal lease accounting. It provides a comprehensive set of lease accounting standards to recognize federal lease activities in the reporting entity’s general purpose federal financial reports and includes appropriate disclosures.,,,,,,
+How many compliance requirements are in a Single Audit and what are they?,"There are 12 compliance requirements in a Single Audit, listed as follows:
+
+Activities allowed or unallowed
+Allowable cost/cost principles
+Cash management
+Eligibility
+Equipment and real property management
+Matching, level of effort, and earmarking
+Period of performance
+Procurement and suspension and debarment
+Program income
+Reporting
+Subrecipient Monitoring
+Special Tests and Provisions",,,,,,
+"In government accounting, how many types of basis of accounting are there and what are they? State the types separated by commas.","In government accounting, there are three types of basis of accounting: cash basis, accrual basis, and modified accrual basis.",,,,,,
+What is the purpose of the ACFR?,"The purpose of the reporting entity's financial statements is to report the financial position and results of operations of the primary government, including its blended component units, and provide an overview of the discretely presented component units. Timely and properly presented financial reports are essential to managers, legislative officials, creditors, financial analysists, the general public, and others having need for governmental financial statements.",,,,,,
+What is the auditor's objective in an in-relation-to Opinion?,"The auditor’s objective is to evaluate the presentation of the supplementary information in relation to the financial statements as a whole and report on whether the supplementary information is fairly stated, in all material respect, in relation to the financial states as a whole",,,,,,
+What are the two types of audit sampling?,"There are two types of sampling: statistical sampling and nonstatistical sampling. Statistical sampling uses random selection to choose the sample items, then applies statistical techniques to evaluate the sample results. Nonstatistical sampling does not use statistical evaluation. The decision whether to use a statistical or nonstatistical sampling approach is a matter for the auditor's professional judgment.",,,,,,
+"According to the FDIC, accounting principles applicable to reports or statements required to be filed with Federal banking agencies by insured depository institutions should do what?","According to the FDIC, accounting principles applicable to reports or statements required to be filed with Federal banking agencies by insured depository institutions should result in financial statements and reports of condition that accurately reflect the capital of such institutions; facilitate effective supervision of the institutions; and facilitate prompt corrective action to resolve the institutions at the least cost to the Deposit Insurance Fund.",,,,,,
+What is the significant difference between accounting practices of property/casualty and life insurers in terms of contract duration?,"Property/casualty insurance policies are usually short-term contracts, six-months to a year. Their final cost will usually be known within a year or so after the policy term begins, except for some types of liability contracts. They are known as short-duration contracts. By contrast, life, disability and long-term care insurance and annuity contracts are typically long-duration contracts—in force for decades.",,,,,,
+What claim is the most difficult to assess for property/casualty insurers?,"The most difficult to assess are loss reserves for events that have already happened but have not been reported to the insurance company, known as ""incurred but not reported"" (IBNR).",,,,,,
