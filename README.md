@@ -2,53 +2,6 @@
 
 <img align="right" width="40%" src="https://www.finos.org/hubfs/FINOS/finos-logo/FINOS_Icon_Wordmark_Name_RGB_horizontal.png">
 
-
-# 🚀 Quick Start Guide
-
-Follow these steps to set up and run the project.
-
----
-
-## 1. Set Up the Conda Environment
-
-Make sure you have [Conda](https://docs.conda.io/en/latest/) installed.
-
-```bash
-conda create -n myproject python=3.10 -y
-conda activate myproject
-```
-
-## 2. Install Python Dependencies
-
-Install required packages using pip:
-```bash
-pip install -r requirements.txt
-```
-
-## 3. Configure API Settings
-
-Edit the api.yaml file to set your API credentials:
-```
-azure:
-  api_key: [YOUR_API]
-  api_base: [YOUR_API_BASE]
-  api_version: [YOUR_API_VERSION]
-  deployment_name: [YOUR_DEPLOYMENT_NAME]
-
-brightdata:
-  api_key: [YOUR_API]
-  zone: [YOUR_ZONE]
-
-```
-
-## 4. Run the Experiment
-
-Use the following command to run the main experiment script:
-```bash
-bash scripts/run_experiment.bash
-```
-
-
 # EMIR-specific RAG
 
 Welcome to the EMIR-specific RAG repository. This project builds on the existing work done by AI4FINANCE to address key challenges in maintaining and expanding the DRR system. The initiative leverages AI to reduce maintenance costs and improve scalability across different jurisdictions and regulations.
